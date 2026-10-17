@@ -1,0 +1,42 @@
+{
+  "model_name": "Linear Regression Pipeline",
+  "model_version": "v1.1.0",
+  "algorithm": "LinearRegression with StandardScaler and OneHotEncoder",
+  "sklearn_version": "1.6.1",
+  "trained_at": "2026-10-16T14:13:04.043219+00:00",
+  "total_records": 1200,
+  "train_samples": 960,
+  "test_samples": 240,
+  "metrics": {
+    "mae_kwh": 31.319,
+    "rmse_kwh": 44.713,
+    "r2_score": 0.9638
+  },
+  "features": {
+    "numeric": [
+      "quantity",
+      "machine_hours"
+    ],
+    "categorical": [
+      "machine_type",
+      "shift"
+    ]
+  },
+  "known_categories": {
+    "machine_types": [
+      "CNC",
+      "GEARBOX",
+      "Lathe",
+      "Milling Machine",
+      "Ship Gearbox"
+    ],
+    "shifts": [
+      "Afternoon",
+      "Evening",
+      "Morning",
+      "Night"
+    ]
+  },
+  "data_source": "sample_historical_production.csv",
+  "target": "actual_energy_consumed_kwh"
+}

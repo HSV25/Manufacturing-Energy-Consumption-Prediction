@@ -1,0 +1,1201 @@
+batch_number,product_name,quantity,machine_hours,machine_type,shift,production_date,actual_energy_consumed_kwh
+BATCH-2025-0001,Industrial Gearbox Housing,97,5.43,CNC,Night,2025-05-20,270.16
+BATCH-2025-0002,Industrial Gearbox Housing,41,2.44,Ship Gearbox,Afternoon,2025-03-01,103.8
+BATCH-2025-0003,Flange Connector,289,9.86,Ship Gearbox,Morning,2025-04-25,497.87
+BATCH-2025-0004,Flange Connector,230,12.62,Milling Machine,Morning,2025-04-19,729.9
+BATCH-2025-0005,Turbine Blade Mount,152,5.01,Milling Machine,Evening,2025-04-02,413.16
+BATCH-2025-0006,Turbine Blade Mount,394,13.3,Ship Gearbox,Night,2025-05-18,723.12
+BATCH-2025-0007,Industrial Gearbox Housing,307,9.73,GEARBOX,Morning,2025-05-28,495.65
+BATCH-2025-0008,Hydraulic Valve Body,343,11.26,CNC,Morning,2025-01-21,653.53
+BATCH-2025-0009,Hydraulic Valve Body,163,5.89,CNC,Afternoon,2025-02-23,329.35
+BATCH-2025-0010,Turbine Blade Mount,189,9.48,CNC,Evening,2025-04-29,457.84
+BATCH-2025-0011,Precision Drive Shaft,369,11.58,Milling Machine,Evening,2025-01-09,960.69
+BATCH-2025-0012,Turbine Blade Mount,97,2.93,GEARBOX,Night,2025-05-26,170.16
+BATCH-2025-0013,Turbine Blade Mount,251,7.54,Lathe,Afternoon,2025-03-05,322.03
+BATCH-2025-0014,Flange Connector,294,12.46,Ship Gearbox,Night,2025-05-30,588.67
+BATCH-2025-0015,Precision Drive Shaft,284,15.96,Milling Machine,Evening,2025-01-29,928.37
+BATCH-2025-0016,Hydraulic Valve Body,235,10.35,Lathe,Afternoon,2025-06-02,354.64
+BATCH-2025-0017,Precision Drive Shaft,503,15.6,Ship Gearbox,Night,2025-06-24,900.55
+BATCH-2025-0018,Flange Connector,84,3.56,Milling Machine,Night,2025-04-27,263.11
+BATCH-2025-0019,Industrial Gearbox Housing,156,9.11,Milling Machine,Evening,2025-05-10,519.89
+BATCH-2025-0020,Flange Connector,132,7.23,Lathe,Evening,2025-05-16,214.81
+BATCH-2025-0021,Industrial Gearbox Housing,152,8.84,Ship Gearbox,Night,2025-03-20,339.49
+BATCH-2025-0022,Hydraulic Valve Body,485,14.29,CNC,Evening,2025-01-22,939.94
+BATCH-2025-0023,Precision Drive Shaft,93,3.8,CNC,Evening,2025-06-05,201.13
+BATCH-2025-0024,Precision Drive Shaft,275,11.98,Lathe,Evening,2025-06-21,415.57
+BATCH-2025-0025,Turbine Blade Mount,72,3.69,GEARBOX,Afternoon,2025-02-28,145.7
+BATCH-2025-0026,Flange Connector,83,2.99,Lathe,Morning,2025-02-28,126.48
+BATCH-2025-0027,Industrial Gearbox Housing,59,2.99,CNC,Night,2025-02-03,152.7
+BATCH-2025-0028,Flange Connector,132,5.4,Ship Gearbox,Afternoon,2025-04-15,245.97
+BATCH-2025-0029,Hydraulic Valve Body,248,11.23,CNC,Morning,2025-01-14,536.11
+BATCH-2025-0030,Industrial Gearbox Housing,378,12.19,CNC,Afternoon,2025-01-28,743.46
+BATCH-2025-0031,Hydraulic Valve Body,169,9.51,Lathe,Evening,2025-01-20,293.94
+BATCH-2025-0032,Precision Drive Shaft,95,2.71,Ship Gearbox,Morning,2025-01-04,166.43
+BATCH-2025-0033,Industrial Gearbox Housing,189,7.69,Lathe,Evening,2025-02-12,293.06
+BATCH-2025-0034,Precision Drive Shaft,175,5.71,CNC,Afternoon,2025-04-27,332.0
+BATCH-2025-0035,Turbine Blade Mount,87,4.17,GEARBOX,Afternoon,2025-05-19,186.5
+BATCH-2025-0036,Industrial Gearbox Housing,66,2.7,Milling Machine,Morning,2025-05-16,187.44
+BATCH-2025-0037,Hydraulic Valve Body,228,13.92,CNC,Morning,2025-04-14,599.33
+BATCH-2025-0038,Industrial Gearbox Housing,160,10.1,Ship Gearbox,Evening,2025-01-21,379.55
+BATCH-2025-0039,Precision Drive Shaft,288,15.09,Ship Gearbox,Night,2025-04-12,628.6
+BATCH-2025-0040,Hydraulic Valve Body,193,6.43,Milling Machine,Afternoon,2025-01-19,503.7
+BATCH-2025-0041,Industrial Gearbox Housing,58,3.03,GEARBOX,Morning,2025-01-18,120.18
+BATCH-2025-0042,Hydraulic Valve Body,133,4.21,Milling Machine,Night,2025-06-30,384.73
+BATCH-2025-0043,Turbine Blade Mount,296,11.35,Ship Gearbox,Morning,2025-02-04,538.3
+BATCH-2025-0044,Turbine Blade Mount,224,12.39,CNC,Morning,2025-03-14,544.82
+BATCH-2025-0045,Flange Connector,134,4.85,Lathe,Night,2025-01-14,202.08
+BATCH-2025-0046,Industrial Gearbox Housing,57,2.62,GEARBOX,Night,2025-02-03,134.96
+BATCH-2025-0047,Turbine Blade Mount,229,9.72,Lathe,Afternoon,2025-06-26,343.2
+BATCH-2025-0048,Hydraulic Valve Body,365,13.68,Ship Gearbox,Morning,2025-02-07,652.93
+BATCH-2025-0049,Precision Drive Shaft,208,6.32,Lathe,Morning,2025-04-02,274.82
+BATCH-2025-0050,Hydraulic Valve Body,182,6.95,Lathe,Morning,2025-04-15,241.78
+BATCH-2025-0051,Flange Connector,487,14.1,Lathe,Evening,2025-01-07,637.73
+BATCH-2025-0052,Hydraulic Valve Body,427,13.23,Milling Machine,Afternoon,2025-03-05,1076.41
+BATCH-2025-0053,Turbine Blade Mount,116,7.36,Lathe,Morning,2025-04-28,201.39
+BATCH-2025-0054,Turbine Blade Mount,144,5.12,Milling Machine,Evening,2025-04-13,397.56
+BATCH-2025-0055,Turbine Blade Mount,320,15.54,Milling Machine,Morning,2025-05-18,963.03
+BATCH-2025-0056,Turbine Blade Mount,289,14.28,CNC,Morning,2025-05-29,659.69
+BATCH-2025-0057,Turbine Blade Mount,227,10.35,CNC,Morning,2025-05-11,507.04
+BATCH-2025-0058,Industrial Gearbox Housing,163,5.57,GEARBOX,Evening,2025-01-01,279.34
+BATCH-2025-0059,Flange Connector,116,7.1,Ship Gearbox,Evening,2025-03-22,264.83
+BATCH-2025-0060,Industrial Gearbox Housing,244,11.34,Milling Machine,Night,2025-06-28,761.98
+BATCH-2025-0061,Turbine Blade Mount,133,4.69,Ship Gearbox,Evening,2025-02-14,233.7
+BATCH-2025-0062,Flange Connector,244,7.69,Ship Gearbox,Night,2025-03-19,448.31
+BATCH-2025-0063,Turbine Blade Mount,353,13.0,Lathe,Afternoon,2025-06-22,489.08
+BATCH-2025-0064,Hydraulic Valve Body,448,13.11,Ship Gearbox,Afternoon,2025-02-13,749.83
+BATCH-2025-0065,Industrial Gearbox Housing,113,3.31,Milling Machine,Night,2025-02-20,305.74
+BATCH-2025-0066,Hydraulic Valve Body,133,5.43,CNC,Morning,2025-01-19,290.93
+BATCH-2025-0067,Precision Drive Shaft,274,12.06,GEARBOX,Evening,2025-06-26,525.37
+BATCH-2025-0068,Industrial Gearbox Housing,157,5.06,CNC,Afternoon,2025-06-28,311.38
+BATCH-2025-0069,Flange Connector,327,9.8,GEARBOX,Morning,2025-04-29,532.74
+BATCH-2025-0070,Flange Connector,502,15.3,Ship Gearbox,Night,2025-06-06,883.94
+BATCH-2025-0071,Flange Connector,435,14.56,GEARBOX,Afternoon,2025-03-05,733.25
+BATCH-2025-0072,Turbine Blade Mount,221,10.77,Ship Gearbox,Afternoon,2025-01-20,448.31
+BATCH-2025-0073,Turbine Blade Mount,220,6.7,Lathe,Night,2025-04-09,310.84
+BATCH-2025-0074,Hydraulic Valve Body,169,7.81,Lathe,Morning,2025-04-30,260.21
+BATCH-2025-0075,Precision Drive Shaft,311,13.66,CNC,Evening,2025-01-06,697.59
+BATCH-2025-0076,Flange Connector,46,2.08,GEARBOX,Afternoon,2025-04-10,74.46
+BATCH-2025-0077,Precision Drive Shaft,181,8.84,Ship Gearbox,Evening,2025-06-21,365.48
+BATCH-2025-0078,Precision Drive Shaft,515,14.87,Lathe,Afternoon,2025-05-17,659.1
+BATCH-2025-0079,Industrial Gearbox Housing,75,3.18,GEARBOX,Morning,2025-03-08,145.97
+BATCH-2025-0080,Precision Drive Shaft,182,8.37,Milling Machine,Evening,2025-04-08,549.59
+BATCH-2025-0081,Turbine Blade Mount,334,13.69,GEARBOX,Night,2025-03-31,646.15
+BATCH-2025-0082,Hydraulic Valve Body,427,12.56,CNC,Morning,2025-02-21,791.1
+BATCH-2025-0083,Industrial Gearbox Housing,131,5.34,Ship Gearbox,Evening,2025-04-30,267.65
+BATCH-2025-0084,Turbine Blade Mount,359,10.48,Milling Machine,Evening,2025-01-30,924.3
+BATCH-2025-0085,Hydraulic Valve Body,339,10.1,Milling Machine,Morning,2025-04-07,831.62
+BATCH-2025-0086,Precision Drive Shaft,325,10.29,Lathe,Morning,2025-03-04,417.3
+BATCH-2025-0087,Industrial Gearbox Housing,346,13.15,Milling Machine,Morning,2025-06-19,953.64
+BATCH-2025-0088,Turbine Blade Mount,51,2.18,CNC,Night,2025-05-06,129.14
+BATCH-2025-0089,Industrial Gearbox Housing,344,10.9,GEARBOX,Night,2025-05-14,600.73
+BATCH-2025-0090,Turbine Blade Mount,268,8.51,Ship Gearbox,Afternoon,2025-06-01,450.21
+BATCH-2025-0091,Turbine Blade Mount,228,13.63,Milling Machine,Evening,2025-04-29,785.4
+BATCH-2025-0092,Flange Connector,167,6.71,Ship Gearbox,Afternoon,2025-03-25,309.47
+BATCH-2025-0093,Hydraulic Valve Body,141,6.97,GEARBOX,Evening,2025-03-12,288.54
+BATCH-2025-0094,Flange Connector,94,3.2,CNC,Evening,2025-05-06,205.45
+BATCH-2025-0095,Flange Connector,274,11.04,Lathe,Afternoon,2025-02-26,398.28
+BATCH-2025-0096,Precision Drive Shaft,253,11.3,Lathe,Night,2025-05-22,400.5
+BATCH-2025-0097,Flange Connector,415,15.95,Milling Machine,Afternoon,2025-03-20,1143.41
+BATCH-2025-0098,Turbine Blade Mount,258,12.1,Lathe,Morning,2025-05-18,400.76
+BATCH-2025-0099,Hydraulic Valve Body,253,12.34,Lathe,Evening,2025-06-02,392.13
+BATCH-2025-0100,Turbine Blade Mount,137,6.15,CNC,Evening,2025-03-19,306.48
+BATCH-2025-0101,Industrial Gearbox Housing,201,5.84,Ship Gearbox,Evening,2025-02-02,329.06
+BATCH-2025-0102,Precision Drive Shaft,245,10.04,CNC,Morning,2025-04-23,515.81
+BATCH-2025-0103,Turbine Blade Mount,178,5.53,Lathe,Morning,2025-05-06,235.94
+BATCH-2025-0104,Industrial Gearbox Housing,129,4.12,Ship Gearbox,Morning,2025-03-19,222.99
+BATCH-2025-0105,Industrial Gearbox Housing,229,9.81,Lathe,Morning,2025-05-14,327.85
+BATCH-2025-0106,Precision Drive Shaft,165,6.16,GEARBOX,Afternoon,2025-04-20,289.78
+BATCH-2025-0107,Turbine Blade Mount,314,10.53,Ship Gearbox,Morning,2025-02-24,545.11
+BATCH-2025-0108,Turbine Blade Mount,140,5.36,CNC,Evening,2025-02-10,297.87
+BATCH-2025-0109,Industrial Gearbox Housing,284,11.65,GEARBOX,Afternoon,2025-03-14,531.32
+BATCH-2025-0110,Precision Drive Shaft,459,14.93,CNC,Evening,2025-06-10,906.19
+BATCH-2025-0111,Flange Connector,70,3.61,Lathe,Afternoon,2025-02-06,120.87
+BATCH-2025-0112,Industrial Gearbox Housing,352,13.1,CNC,Evening,2025-05-26,737.87
+BATCH-2025-0113,Turbine Blade Mount,180,8.56,GEARBOX,Morning,2025-05-19,347.14
+BATCH-2025-0114,Precision Drive Shaft,340,10.37,GEARBOX,Morning,2025-03-24,557.51
+BATCH-2025-0115,Flange Connector,112,3.28,Milling Machine,Morning,2025-01-06,287.02
+BATCH-2025-0116,Turbine Blade Mount,235,12.68,Ship Gearbox,Morning,2025-05-13,482.76
+BATCH-2025-0117,Precision Drive Shaft,379,15.96,Milling Machine,Evening,2025-05-01,1109.96
+BATCH-2025-0118,Turbine Blade Mount,111,6.49,GEARBOX,Night,2025-02-11,241.05
+BATCH-2025-0119,Turbine Blade Mount,205,6.04,GEARBOX,Afternoon,2025-04-27,340.19
+BATCH-2025-0120,Industrial Gearbox Housing,225,6.53,Milling Machine,Night,2025-04-14,584.48
+BATCH-2025-0121,Flange Connector,146,7.79,CNC,Afternoon,2025-06-10,347.36
+BATCH-2025-0122,Precision Drive Shaft,101,5.74,CNC,Evening,2025-03-15,270.69
+BATCH-2025-0123,Precision Drive Shaft,66,2.4,GEARBOX,Morning,2025-03-21,122.54
+BATCH-2025-0124,Flange Connector,115,3.3,CNC,Afternoon,2025-01-30,206.72
+BATCH-2025-0125,Precision Drive Shaft,263,8.98,CNC,Evening,2025-05-04,525.04
+BATCH-2025-0126,Precision Drive Shaft,220,9.72,Lathe,Afternoon,2025-06-03,331.95
+BATCH-2025-0127,Flange Connector,181,5.87,Lathe,Morning,2025-05-10,224.97
+BATCH-2025-0128,Turbine Blade Mount,386,12.16,CNC,Night,2025-05-29,788.76
+BATCH-2025-0129,Precision Drive Shaft,209,9.54,Lathe,Afternoon,2025-04-27,310.83
+BATCH-2025-0130,Turbine Blade Mount,197,10.01,Lathe,Evening,2025-04-16,318.53
+BATCH-2025-0131,Industrial Gearbox Housing,371,11.87,Milling Machine,Afternoon,2025-06-16,951.04
+BATCH-2025-0132,Hydraulic Valve Body,129,3.77,GEARBOX,Morning,2025-03-26,217.95
+BATCH-2025-0133,Industrial Gearbox Housing,226,9.36,GEARBOX,Morning,2025-06-17,414.04
+BATCH-2025-0134,Hydraulic Valve Body,263,12.94,CNC,Afternoon,2025-06-09,604.19
+BATCH-2025-0135,Precision Drive Shaft,448,13.93,CNC,Night,2025-05-05,893.17
+BATCH-2025-0136,Flange Connector,152,5.29,CNC,Morning,2025-03-15,308.56
+BATCH-2025-0137,Hydraulic Valve Body,474,15.7,CNC,Afternoon,2025-02-12,928.29
+BATCH-2025-0138,Turbine Blade Mount,105,6.54,CNC,Morning,2025-04-02,271.35
+BATCH-2025-0139,Turbine Blade Mount,126,5.42,GEARBOX,Evening,2025-02-14,243.13
+BATCH-2025-0140,Industrial Gearbox Housing,212,10.68,Ship Gearbox,Afternoon,2025-05-30,431.11
+BATCH-2025-0141,Hydraulic Valve Body,264,10.93,Lathe,Afternoon,2025-04-30,378.65
+BATCH-2025-0142,Turbine Blade Mount,103,3.03,Ship Gearbox,Evening,2025-05-31,164.35
+BATCH-2025-0143,Turbine Blade Mount,177,8.4,GEARBOX,Night,2025-01-28,385.99
+BATCH-2025-0144,Hydraulic Valve Body,350,10.05,GEARBOX,Night,2025-03-17,593.03
+BATCH-2025-0145,Industrial Gearbox Housing,68,2.11,GEARBOX,Night,2025-06-05,131.77
+BATCH-2025-0146,Precision Drive Shaft,231,10.5,Milling Machine,Evening,2025-06-12,675.42
+BATCH-2025-0147,Hydraulic Valve Body,338,11.49,Ship Gearbox,Night,2025-06-10,611.3
+BATCH-2025-0148,Industrial Gearbox Housing,204,13.04,CNC,Night,2025-04-04,557.41
+BATCH-2025-0149,Hydraulic Valve Body,153,6.57,CNC,Night,2025-04-04,360.82
+BATCH-2025-0150,Flange Connector,275,13.63,Ship Gearbox,Night,2025-05-04,600.62
+BATCH-2025-0151,Turbine Blade Mount,141,8.56,Milling Machine,Morning,2025-06-23,477.48
+BATCH-2025-0152,Precision Drive Shaft,75,3.26,Ship Gearbox,Night,2025-03-09,154.52
+BATCH-2025-0153,Flange Connector,215,7.16,CNC,Afternoon,2025-06-13,425.08
+BATCH-2025-0154,Turbine Blade Mount,236,8.6,CNC,Evening,2025-05-24,497.66
+BATCH-2025-0155,Turbine Blade Mount,307,11.07,Ship Gearbox,Evening,2025-06-16,543.58
+BATCH-2025-0156,Precision Drive Shaft,41,2.63,CNC,Evening,2025-05-07,119.97
+BATCH-2025-0157,Industrial Gearbox Housing,255,14.42,CNC,Evening,2025-06-28,632.29
+BATCH-2025-0158,Flange Connector,405,14.4,GEARBOX,Evening,2025-05-06,716.91
+BATCH-2025-0159,Flange Connector,55,2.46,GEARBOX,Night,2025-04-03,102.03
+BATCH-2025-0160,Industrial Gearbox Housing,58,2.85,Milling Machine,Night,2025-02-01,203.11
+BATCH-2025-0161,Precision Drive Shaft,296,10.98,CNC,Evening,2025-03-04,630.63
+BATCH-2025-0162,Hydraulic Valve Body,90,2.96,Ship Gearbox,Evening,2025-02-23,165.21
+BATCH-2025-0163,Flange Connector,118,6.6,Lathe,Evening,2025-02-07,205.04
+BATCH-2025-0164,Hydraulic Valve Body,227,13.18,Ship Gearbox,Night,2025-01-07,522.93
+BATCH-2025-0165,Hydraulic Valve Body,258,13.06,CNC,Night,2025-01-14,636.55
+BATCH-2025-0166,Hydraulic Valve Body,305,12.44,GEARBOX,Morning,2025-04-03,559.82
+BATCH-2025-0167,Flange Connector,162,8.33,Ship Gearbox,Morning,2025-06-18,323.47
+BATCH-2025-0168,Flange Connector,172,11.01,Milling Machine,Afternoon,2025-05-03,595.47
+BATCH-2025-0169,Precision Drive Shaft,294,8.86,GEARBOX,Morning,2025-06-05,480.55
+BATCH-2025-0170,Hydraulic Valve Body,162,5.85,CNC,Evening,2025-05-21,339.02
+BATCH-2025-0171,Turbine Blade Mount,226,8.35,GEARBOX,Night,2025-06-17,433.47
+BATCH-2025-0172,Flange Connector,163,8.32,Lathe,Afternoon,2025-03-28,270.84
+BATCH-2025-0173,Precision Drive Shaft,259,12.21,GEARBOX,Afternoon,2025-02-09,506.46
+BATCH-2025-0174,Precision Drive Shaft,230,13.64,CNC,Morning,2025-01-25,586.75
+BATCH-2025-0175,Turbine Blade Mount,268,10.21,Lathe,Morning,2025-04-01,373.78
+BATCH-2025-0176,Precision Drive Shaft,229,10.41,CNC,Night,2025-05-28,544.6
+BATCH-2025-0177,Flange Connector,218,11.19,Lathe,Evening,2025-04-05,368.82
+BATCH-2025-0178,Industrial Gearbox Housing,424,13.3,Milling Machine,Evening,2025-06-09,1111.16
+BATCH-2025-0179,Flange Connector,296,10.53,Ship Gearbox,Morning,2025-03-11,519.47
+BATCH-2025-0180,Turbine Blade Mount,68,2.09,Milling Machine,Night,2025-05-25,189.44
+BATCH-2025-0181,Precision Drive Shaft,426,12.37,CNC,Evening,2025-04-07,815.25
+BATCH-2025-0182,Precision Drive Shaft,89,4.2,GEARBOX,Night,2025-03-25,197.07
+BATCH-2025-0183,Flange Connector,260,14.37,Ship Gearbox,Morning,2025-01-21,549.73
+BATCH-2025-0184,Turbine Blade Mount,210,8.8,GEARBOX,Afternoon,2025-03-11,390.58
+BATCH-2025-0185,Hydraulic Valve Body,118,6.83,Ship Gearbox,Morning,2025-05-15,253.06
+BATCH-2025-0186,Turbine Blade Mount,203,7.53,CNC,Evening,2025-01-02,415.79
+BATCH-2025-0187,Hydraulic Valve Body,386,12.74,Milling Machine,Evening,2025-05-08,1020.5
+BATCH-2025-0188,Precision Drive Shaft,213,7.32,Lathe,Evening,2025-05-09,301.12
+BATCH-2025-0189,Flange Connector,226,7.56,Milling Machine,Morning,2025-01-20,581.41
+BATCH-2025-0190,Turbine Blade Mount,293,10.03,Ship Gearbox,Afternoon,2025-04-17,517.33
+BATCH-2025-0191,Turbine Blade Mount,49,2.29,CNC,Afternoon,2025-06-26,119.79
+BATCH-2025-0192,Turbine Blade Mount,275,13.82,CNC,Afternoon,2025-05-31,635.85
+BATCH-2025-0193,Precision Drive Shaft,160,7.54,Ship Gearbox,Morning,2025-02-13,312.88
+BATCH-2025-0194,Industrial Gearbox Housing,178,9.43,Ship Gearbox,Morning,2025-03-31,376.63
+BATCH-2025-0195,Turbine Blade Mount,69,3.44,Lathe,Evening,2025-06-17,119.08
+BATCH-2025-0196,Industrial Gearbox Housing,223,8.5,Lathe,Afternoon,2025-05-29,321.72
+BATCH-2025-0197,Precision Drive Shaft,388,14.1,Ship Gearbox,Night,2025-04-24,728.38
+BATCH-2025-0198,Turbine Blade Mount,114,6.93,Milling Machine,Morning,2025-04-29,389.58
+BATCH-2025-0199,Precision Drive Shaft,149,7.16,CNC,Morning,2025-01-24,327.79
+BATCH-2025-0200,Flange Connector,221,8.48,Ship Gearbox,Afternoon,2025-01-11,388.33
+BATCH-2025-0201,Precision Drive Shaft,159,6.5,Ship Gearbox,Evening,2025-01-27,307.41
+BATCH-2025-0202,Turbine Blade Mount,74,2.55,CNC,Evening,2025-04-23,158.12
+BATCH-2025-0203,Flange Connector,237,7.09,Ship Gearbox,Evening,2025-06-23,393.59
+BATCH-2025-0204,Flange Connector,49,2.92,CNC,Night,2025-06-23,150.16
+BATCH-2025-0205,Precision Drive Shaft,341,12.13,Milling Machine,Night,2025-03-27,972.93
+BATCH-2025-0206,Industrial Gearbox Housing,314,14.83,Ship Gearbox,Evening,2025-06-17,623.56
+BATCH-2025-0207,Precision Drive Shaft,143,6.33,Lathe,Morning,2025-06-21,218.96
+BATCH-2025-0208,Flange Connector,140,9.12,CNC,Afternoon,2025-03-21,364.17
+BATCH-2025-0209,Hydraulic Valve Body,378,15.27,Lathe,Night,2025-01-20,574.47
+BATCH-2025-0210,Turbine Blade Mount,367,11.27,CNC,Morning,2025-06-08,697.65
+BATCH-2025-0211,Hydraulic Valve Body,77,4.16,Ship Gearbox,Afternoon,2025-02-12,163.24
+BATCH-2025-0212,Precision Drive Shaft,209,7.1,CNC,Afternoon,2025-04-24,406.58
+BATCH-2025-0213,Flange Connector,104,5.28,Milling Machine,Afternoon,2025-02-19,342.32
+BATCH-2025-0214,Turbine Blade Mount,175,8.46,Ship Gearbox,Afternoon,2025-04-08,351.22
+BATCH-2025-0215,Flange Connector,487,15.53,Ship Gearbox,Afternoon,2025-03-06,830.77
+BATCH-2025-0216,Industrial Gearbox Housing,166,9.76,GEARBOX,Night,2025-05-13,380.46
+BATCH-2025-0217,Industrial Gearbox Housing,259,12.68,Milling Machine,Morning,2025-04-22,791.13
+BATCH-2025-0218,Industrial Gearbox Housing,483,14.38,Lathe,Afternoon,2025-04-17,621.46
+BATCH-2025-0219,Industrial Gearbox Housing,185,5.3,GEARBOX,Night,2025-01-26,317.56
+BATCH-2025-0220,Turbine Blade Mount,85,2.54,Lathe,Evening,2025-05-01,119.32
+BATCH-2025-0221,Hydraulic Valve Body,351,10.61,GEARBOX,Afternoon,2025-02-08,582.02
+BATCH-2025-0222,Flange Connector,74,3.56,Ship Gearbox,Afternoon,2025-03-19,153.6
+BATCH-2025-0223,Industrial Gearbox Housing,243,7.88,CNC,Evening,2025-05-08,478.52
+BATCH-2025-0224,Flange Connector,288,10.85,Ship Gearbox,Morning,2025-02-06,518.13
+BATCH-2025-0225,Turbine Blade Mount,210,10.61,GEARBOX,Morning,2025-01-22,411.55
+BATCH-2025-0226,Flange Connector,397,15.35,Milling Machine,Morning,2025-05-10,1095.77
+BATCH-2025-0227,Flange Connector,226,14.23,CNC,Afternoon,2025-01-05,590.24
+BATCH-2025-0228,Turbine Blade Mount,151,5.38,CNC,Night,2025-01-27,331.58
+BATCH-2025-0229,Flange Connector,68,2.62,Milling Machine,Evening,2025-06-25,199.2
+BATCH-2025-0230,Precision Drive Shaft,217,13.36,GEARBOX,Evening,2025-04-28,487.94
+BATCH-2025-0231,Industrial Gearbox Housing,50,2.61,Milling Machine,Evening,2025-05-12,184.67
+BATCH-2025-0232,Precision Drive Shaft,167,5.55,Ship Gearbox,Afternoon,2025-02-18,297.28
+BATCH-2025-0233,Turbine Blade Mount,306,14.12,Milling Machine,Morning,2025-04-13,910.7
+BATCH-2025-0234,Precision Drive Shaft,390,15.63,GEARBOX,Night,2025-05-08,750.99
+BATCH-2025-0235,Turbine Blade Mount,391,13.22,Ship Gearbox,Night,2025-02-16,723.02
+BATCH-2025-0236,Flange Connector,74,3.44,Milling Machine,Night,2025-03-17,246.51
+BATCH-2025-0237,Turbine Blade Mount,103,4.33,GEARBOX,Afternoon,2025-04-01,183.95
+BATCH-2025-0238,Flange Connector,338,10.95,GEARBOX,Night,2025-01-15,601.55
+BATCH-2025-0239,Industrial Gearbox Housing,275,9.18,GEARBOX,Night,2025-06-05,494.59
+BATCH-2025-0240,Precision Drive Shaft,90,2.94,CNC,Evening,2025-04-04,185.83
+BATCH-2025-0241,Turbine Blade Mount,299,10.47,GEARBOX,Morning,2025-01-20,519.97
+BATCH-2025-0242,Flange Connector,212,7.57,Lathe,Night,2025-03-05,310.05
+BATCH-2025-0243,Industrial Gearbox Housing,204,8.99,CNC,Evening,2025-03-08,453.66
+BATCH-2025-0244,Precision Drive Shaft,410,11.72,Lathe,Night,2025-02-21,547.85
+BATCH-2025-0245,Industrial Gearbox Housing,275,8.33,Lathe,Morning,2025-06-24,352.14
+BATCH-2025-0246,Turbine Blade Mount,202,9.7,Milling Machine,Morning,2025-03-18,611.06
+BATCH-2025-0247,Hydraulic Valve Body,159,9.12,Lathe,Night,2025-05-07,289.3
+BATCH-2025-0248,Industrial Gearbox Housing,296,8.54,Milling Machine,Night,2025-02-03,780.06
+BATCH-2025-0249,Flange Connector,221,6.33,CNC,Morning,2025-04-15,407.56
+BATCH-2025-0250,Flange Connector,435,15.61,CNC,Evening,2025-04-26,881.14
+BATCH-2025-0251,Precision Drive Shaft,120,3.8,Ship Gearbox,Night,2025-02-03,212.32
+BATCH-2025-0252,Precision Drive Shaft,346,13.64,Ship Gearbox,Morning,2025-03-19,627.75
+BATCH-2025-0253,Hydraulic Valve Body,294,15.09,Lathe,Night,2025-03-14,505.37
+BATCH-2025-0254,Industrial Gearbox Housing,283,10.89,Milling Machine,Evening,2025-02-02,792.17
+BATCH-2025-0255,Turbine Blade Mount,166,9.04,Ship Gearbox,Morning,2025-06-18,354.64
+BATCH-2025-0256,Flange Connector,363,13.8,Ship Gearbox,Night,2025-01-08,690.42
+BATCH-2025-0257,Industrial Gearbox Housing,337,11.12,CNC,Night,2025-05-08,683.6
+BATCH-2025-0258,Flange Connector,272,8.76,Milling Machine,Night,2025-06-25,746.5
+BATCH-2025-0259,Precision Drive Shaft,49,3.02,Milling Machine,Afternoon,2025-02-22,164.51
+BATCH-2025-0260,Turbine Blade Mount,187,6.38,Ship Gearbox,Evening,2025-03-30,338.36
+BATCH-2025-0261,Precision Drive Shaft,158,9.21,Lathe,Night,2025-04-26,288.61
+BATCH-2025-0262,Hydraulic Valve Body,92,2.71,Lathe,Morning,2025-06-07,125.22
+BATCH-2025-0263,Precision Drive Shaft,451,13.39,Lathe,Evening,2025-02-10,589.29
+BATCH-2025-0264,Precision Drive Shaft,190,8.98,Ship Gearbox,Afternoon,2025-01-06,375.24
+BATCH-2025-0265,Industrial Gearbox Housing,300,15.53,GEARBOX,Afternoon,2025-05-07,612.78
+BATCH-2025-0266,Flange Connector,304,9.51,GEARBOX,Night,2025-04-21,533.95
+BATCH-2025-0267,Hydraulic Valve Body,283,12.69,Milling Machine,Night,2025-02-19,866.95
+BATCH-2025-0268,Turbine Blade Mount,76,3.03,Ship Gearbox,Night,2025-05-21,163.13
+BATCH-2025-0269,Turbine Blade Mount,64,3.8,Ship Gearbox,Morning,2025-05-23,127.35
+BATCH-2025-0270,Turbine Blade Mount,240,10.43,Lathe,Evening,2025-01-11,381.85
+BATCH-2025-0271,Industrial Gearbox Housing,373,11.99,CNC,Evening,2025-05-12,729.1
+BATCH-2025-0272,Hydraulic Valve Body,149,4.28,Milling Machine,Night,2025-03-18,395.42
+BATCH-2025-0273,Flange Connector,250,11.92,Milling Machine,Afternoon,2025-06-22,762.8
+BATCH-2025-0274,Industrial Gearbox Housing,388,13.15,GEARBOX,Night,2025-06-26,688.19
+BATCH-2025-0275,Industrial Gearbox Housing,161,5.72,Ship Gearbox,Afternoon,2025-02-28,299.21
+BATCH-2025-0276,Industrial Gearbox Housing,121,4.39,Ship Gearbox,Afternoon,2025-06-08,218.4
+BATCH-2025-0277,Precision Drive Shaft,83,2.44,Lathe,Evening,2025-03-22,116.01
+BATCH-2025-0278,Precision Drive Shaft,271,11.67,Lathe,Afternoon,2025-06-06,404.66
+BATCH-2025-0279,Precision Drive Shaft,243,9.26,CNC,Evening,2025-04-07,522.35
+BATCH-2025-0280,Turbine Blade Mount,323,14.77,Lathe,Afternoon,2025-04-01,492.04
+BATCH-2025-0281,Turbine Blade Mount,93,4.69,Ship Gearbox,Afternoon,2025-03-18,189.25
+BATCH-2025-0282,Turbine Blade Mount,142,6.44,Lathe,Afternoon,2025-03-12,216.93
+BATCH-2025-0283,Turbine Blade Mount,333,14.54,CNC,Afternoon,2025-02-07,724.92
+BATCH-2025-0284,Turbine Blade Mount,255,15.37,CNC,Night,2025-04-24,699.74
+BATCH-2025-0285,Turbine Blade Mount,124,4.83,GEARBOX,Evening,2025-02-05,243.22
+BATCH-2025-0286,Industrial Gearbox Housing,153,5.39,Ship Gearbox,Evening,2025-05-16,273.58
+BATCH-2025-0287,Hydraulic Valve Body,73,3.4,Lathe,Morning,2025-02-05,102.73
+BATCH-2025-0288,Industrial Gearbox Housing,259,7.7,Ship Gearbox,Evening,2025-05-02,442.06
+BATCH-2025-0289,Precision Drive Shaft,181,6.5,Lathe,Night,2025-05-27,271.99
+BATCH-2025-0290,Hydraulic Valve Body,274,14.79,Ship Gearbox,Morning,2025-02-15,570.73
+BATCH-2025-0291,Industrial Gearbox Housing,138,4.61,GEARBOX,Afternoon,2025-01-10,243.08
+BATCH-2025-0292,Industrial Gearbox Housing,326,15.0,Milling Machine,Morning,2025-04-27,958.14
+BATCH-2025-0293,Flange Connector,256,14.45,Ship Gearbox,Afternoon,2025-01-29,546.73
+BATCH-2025-0294,Turbine Blade Mount,325,11.08,Lathe,Afternoon,2025-01-04,441.51
+BATCH-2025-0295,Turbine Blade Mount,143,4.46,Milling Machine,Evening,2025-05-12,388.0
+BATCH-2025-0296,Turbine Blade Mount,213,11.37,CNC,Afternoon,2025-02-05,507.77
+BATCH-2025-0297,Precision Drive Shaft,48,2.1,Milling Machine,Evening,2025-03-26,142.8
+BATCH-2025-0298,Turbine Blade Mount,126,5.66,Ship Gearbox,Morning,2025-03-02,247.55
+BATCH-2025-0299,Industrial Gearbox Housing,146,6.3,CNC,Afternoon,2025-06-30,305.95
+BATCH-2025-0300,Turbine Blade Mount,139,7.15,CNC,Night,2025-02-04,352.04
+BATCH-2025-0301,Precision Drive Shaft,338,12.47,Lathe,Afternoon,2025-05-01,463.78
+BATCH-2025-0302,Flange Connector,310,11.52,Lathe,Evening,2025-01-21,446.37
+BATCH-2025-0303,Flange Connector,81,3.09,GEARBOX,Night,2025-05-10,170.65
+BATCH-2025-0304,Hydraulic Valve Body,138,4.3,Ship Gearbox,Evening,2025-04-24,245.6
+BATCH-2025-0305,Industrial Gearbox Housing,82,3.27,Lathe,Afternoon,2025-05-12,125.8
+BATCH-2025-0306,Precision Drive Shaft,279,9.82,GEARBOX,Morning,2025-03-20,471.42
+BATCH-2025-0307,Industrial Gearbox Housing,402,13.43,GEARBOX,Night,2025-03-30,713.94
+BATCH-2025-0308,Industrial Gearbox Housing,247,15.08,Ship Gearbox,Morning,2025-05-01,546.99
+BATCH-2025-0309,Industrial Gearbox Housing,80,4.52,Milling Machine,Afternoon,2025-04-18,259.0
+BATCH-2025-0310,Turbine Blade Mount,470,14.17,GEARBOX,Afternoon,2025-04-07,759.16
+BATCH-2025-0311,Industrial Gearbox Housing,245,11.15,Ship Gearbox,Evening,2025-05-16,491.92
+BATCH-2025-0312,Hydraulic Valve Body,435,12.59,Lathe,Morning,2025-04-29,559.96
+BATCH-2025-0313,Flange Connector,270,13.53,GEARBOX,Afternoon,2025-01-29,541.49
+BATCH-2025-0314,Industrial Gearbox Housing,88,5.37,GEARBOX,Morning,2025-06-02,202.03
+BATCH-2025-0315,Industrial Gearbox Housing,86,5.43,GEARBOX,Morning,2025-01-15,186.51
+BATCH-2025-0316,Hydraulic Valve Body,176,5.28,Ship Gearbox,Night,2025-05-28,318.8
+BATCH-2025-0317,Turbine Blade Mount,173,5.32,Ship Gearbox,Night,2025-04-16,322.03
+BATCH-2025-0318,Turbine Blade Mount,263,9.79,Milling Machine,Morning,2025-02-14,712.2
+BATCH-2025-0319,Precision Drive Shaft,58,2.66,Ship Gearbox,Afternoon,2025-05-15,113.93
+BATCH-2025-0320,Turbine Blade Mount,92,4.09,GEARBOX,Afternoon,2025-05-18,173.85
+BATCH-2025-0321,Precision Drive Shaft,181,6.21,Lathe,Evening,2025-05-24,259.7
+BATCH-2025-0322,Precision Drive Shaft,150,7.44,GEARBOX,Evening,2025-03-26,292.37
+BATCH-2025-0323,Industrial Gearbox Housing,97,3.29,GEARBOX,Night,2025-06-22,185.16
+BATCH-2025-0324,Flange Connector,267,14.23,Ship Gearbox,Morning,2025-05-31,560.73
+BATCH-2025-0325,Flange Connector,163,4.92,Lathe,Afternoon,2025-02-24,209.76
+BATCH-2025-0326,Hydraulic Valve Body,428,14.8,CNC,Afternoon,2025-06-30,870.14
+BATCH-2025-0327,Hydraulic Valve Body,297,9.73,GEARBOX,Evening,2025-04-02,502.46
+BATCH-2025-0328,Turbine Blade Mount,229,9.18,Milling Machine,Night,2025-01-26,685.37
+BATCH-2025-0329,Precision Drive Shaft,167,7.19,Milling Machine,Evening,2025-02-07,489.18
+BATCH-2025-0330,Industrial Gearbox Housing,116,6.13,Milling Machine,Afternoon,2025-02-28,370.5
+BATCH-2025-0331,Precision Drive Shaft,253,8.99,Ship Gearbox,Evening,2025-05-06,454.47
+BATCH-2025-0332,Precision Drive Shaft,270,12.26,GEARBOX,Evening,2025-02-05,522.86
+BATCH-2025-0333,Flange Connector,384,14.84,GEARBOX,Evening,2025-01-09,697.55
+BATCH-2025-0334,Industrial Gearbox Housing,247,7.77,CNC,Morning,2025-03-01,470.18
+BATCH-2025-0335,Industrial Gearbox Housing,122,5.06,Lathe,Morning,2025-06-07,190.13
+BATCH-2025-0336,Precision Drive Shaft,54,2.09,GEARBOX,Morning,2025-01-04,104.59
+BATCH-2025-0337,Industrial Gearbox Housing,197,9.5,Ship Gearbox,Night,2025-04-21,406.71
+BATCH-2025-0338,Hydraulic Valve Body,185,9.34,CNC,Morning,2025-06-08,432.31
+BATCH-2025-0339,Flange Connector,132,5.74,Milling Machine,Night,2025-05-25,403.74
+BATCH-2025-0340,Hydraulic Valve Body,370,11.58,Lathe,Night,2025-06-17,518.3
+BATCH-2025-0341,Industrial Gearbox Housing,190,7.31,CNC,Afternoon,2025-02-13,399.74
+BATCH-2025-0342,Industrial Gearbox Housing,239,11.03,GEARBOX,Afternoon,2025-01-25,465.94
+BATCH-2025-0343,Flange Connector,161,4.96,CNC,Evening,2025-01-12,323.28
+BATCH-2025-0344,Industrial Gearbox Housing,144,4.51,Milling Machine,Morning,2025-01-05,362.98
+BATCH-2025-0345,Hydraulic Valve Body,367,12.53,Ship Gearbox,Evening,2025-02-11,647.26
+BATCH-2025-0346,Flange Connector,296,11.48,Lathe,Afternoon,2025-04-09,424.35
+BATCH-2025-0347,Hydraulic Valve Body,65,2.75,CNC,Night,2025-06-07,161.29
+BATCH-2025-0348,Flange Connector,49,2.41,GEARBOX,Night,2025-04-26,106.64
+BATCH-2025-0349,Precision Drive Shaft,219,9.74,Lathe,Night,2025-04-08,354.81
+BATCH-2025-0350,Industrial Gearbox Housing,385,13.17,Ship Gearbox,Night,2025-01-22,715.36
+BATCH-2025-0351,Turbine Blade Mount,331,11.96,Lathe,Afternoon,2025-01-28,458.82
+BATCH-2025-0352,Industrial Gearbox Housing,249,8.23,CNC,Night,2025-01-27,508.89
+BATCH-2025-0353,Hydraulic Valve Body,210,8.03,CNC,Evening,2025-01-23,441.51
+BATCH-2025-0354,Turbine Blade Mount,318,10.36,Ship Gearbox,Morning,2025-04-09,540.99
+BATCH-2025-0355,Industrial Gearbox Housing,124,7.43,Milling Machine,Afternoon,2025-03-04,436.89
+BATCH-2025-0356,Flange Connector,213,11.59,Ship Gearbox,Evening,2025-03-10,449.67
+BATCH-2025-0357,Turbine Blade Mount,74,4.04,Milling Machine,Afternoon,2025-01-20,242.48
+BATCH-2025-0358,Turbine Blade Mount,301,12.09,Milling Machine,Evening,2025-06-07,866.54
+BATCH-2025-0359,Hydraulic Valve Body,59,3.9,GEARBOX,Morning,2025-04-08,126.92
+BATCH-2025-0360,Turbine Blade Mount,253,8.03,GEARBOX,Night,2025-06-16,456.28
+BATCH-2025-0361,Flange Connector,220,6.49,Lathe,Night,2025-04-12,305.86
+BATCH-2025-0362,Turbine Blade Mount,476,15.55,Milling Machine,Afternoon,2025-03-25,1245.63
+BATCH-2025-0363,Precision Drive Shaft,239,7.11,Milling Machine,Afternoon,2025-02-16,613.89
+BATCH-2025-0364,Flange Connector,292,15.2,CNC,Afternoon,2025-03-16,723.78
+BATCH-2025-0365,Industrial Gearbox Housing,83,3.95,GEARBOX,Afternoon,2025-04-19,167.75
+BATCH-2025-0366,Precision Drive Shaft,390,15.87,CNC,Afternoon,2025-04-13,835.94
+BATCH-2025-0367,Flange Connector,296,9.61,Ship Gearbox,Afternoon,2025-05-18,498.77
+BATCH-2025-0368,Flange Connector,360,12.77,CNC,Morning,2025-04-01,731.07
+BATCH-2025-0369,Hydraulic Valve Body,276,9.89,Ship Gearbox,Morning,2025-03-26,474.0
+BATCH-2025-0370,Precision Drive Shaft,66,3.38,CNC,Morning,2025-05-13,141.92
+BATCH-2025-0371,Flange Connector,188,8.24,Ship Gearbox,Evening,2025-05-09,371.71
+BATCH-2025-0372,Hydraulic Valve Body,183,8.76,Milling Machine,Morning,2025-01-22,541.67
+BATCH-2025-0373,Industrial Gearbox Housing,154,6.37,Lathe,Night,2025-05-02,245.54
+BATCH-2025-0374,Industrial Gearbox Housing,136,6.46,GEARBOX,Afternoon,2025-01-30,279.79
+BATCH-2025-0375,Industrial Gearbox Housing,210,11.48,Milling Machine,Morning,2025-02-14,678.89
+BATCH-2025-0376,Flange Connector,336,9.84,Lathe,Night,2025-03-01,455.92
+BATCH-2025-0377,Precision Drive Shaft,259,10.97,Lathe,Evening,2025-02-20,400.06
+BATCH-2025-0378,Precision Drive Shaft,216,7.44,Ship Gearbox,Afternoon,2025-02-22,383.25
+BATCH-2025-0379,Turbine Blade Mount,339,13.19,CNC,Morning,2025-01-30,698.45
+BATCH-2025-0380,Turbine Blade Mount,282,10.36,GEARBOX,Night,2025-05-31,528.11
+BATCH-2025-0381,Industrial Gearbox Housing,378,13.84,Milling Machine,Night,2025-03-18,1078.66
+BATCH-2025-0382,Flange Connector,243,11.41,Ship Gearbox,Morning,2025-03-03,466.15
+BATCH-2025-0383,Turbine Blade Mount,129,7.23,CNC,Evening,2025-05-28,319.9
+BATCH-2025-0384,Precision Drive Shaft,227,8.81,GEARBOX,Evening,2025-06-15,424.31
+BATCH-2025-0385,Hydraulic Valve Body,158,8.85,Ship Gearbox,Evening,2025-01-14,344.3
+BATCH-2025-0386,Turbine Blade Mount,122,3.91,CNC,Afternoon,2025-05-24,248.79
+BATCH-2025-0387,Flange Connector,270,11.59,GEARBOX,Afternoon,2025-01-22,513.85
+BATCH-2025-0388,Flange Connector,125,6.09,CNC,Evening,2025-05-18,289.83
+BATCH-2025-0389,Turbine Blade Mount,302,9.92,Lathe,Afternoon,2025-05-27,395.97
+BATCH-2025-0390,Industrial Gearbox Housing,289,9.59,Milling Machine,Night,2025-04-23,794.92
+BATCH-2025-0391,Flange Connector,108,3.43,Lathe,Afternoon,2025-01-09,147.28
+BATCH-2025-0392,Precision Drive Shaft,236,14.07,Milling Machine,Night,2025-01-31,827.8
+BATCH-2025-0393,Hydraulic Valve Body,382,14.05,Lathe,Night,2025-02-22,549.51
+BATCH-2025-0394,Hydraulic Valve Body,255,9.45,CNC,Night,2025-02-13,556.42
+BATCH-2025-0395,Turbine Blade Mount,341,10.02,Milling Machine,Night,2025-01-25,880.27
+BATCH-2025-0396,Hydraulic Valve Body,514,15.89,GEARBOX,Morning,2025-02-02,837.11
+BATCH-2025-0397,Hydraulic Valve Body,378,11.96,Lathe,Evening,2025-05-06,507.38
+BATCH-2025-0398,Hydraulic Valve Body,243,10.79,Ship Gearbox,Night,2025-01-20,484.61
+BATCH-2025-0399,Industrial Gearbox Housing,382,11.73,GEARBOX,Night,2025-05-29,652.13
+BATCH-2025-0400,Industrial Gearbox Housing,315,10.89,CNC,Afternoon,2025-01-17,632.36
+BATCH-2025-0401,Flange Connector,490,15.55,GEARBOX,Evening,2025-03-14,819.16
+BATCH-2025-0402,Turbine Blade Mount,245,9.93,Ship Gearbox,Evening,2025-03-29,465.44
+BATCH-2025-0403,Industrial Gearbox Housing,342,10.77,CNC,Morning,2025-02-10,670.67
+BATCH-2025-0404,Precision Drive Shaft,374,15.89,GEARBOX,Morning,2025-06-26,693.55
+BATCH-2025-0405,Hydraulic Valve Body,463,14.24,Milling Machine,Evening,2025-01-22,1200.22
+BATCH-2025-0406,Turbine Blade Mount,159,7.55,Lathe,Morning,2025-06-29,250.04
+BATCH-2025-0407,Hydraulic Valve Body,178,11.85,GEARBOX,Morning,2025-02-27,406.9
+BATCH-2025-0408,Flange Connector,46,2.11,GEARBOX,Morning,2025-01-31,92.95
+BATCH-2025-0409,Precision Drive Shaft,68,2.99,Lathe,Afternoon,2025-03-22,106.21
+BATCH-2025-0410,Turbine Blade Mount,230,7.36,Milling Machine,Evening,2025-02-04,601.6
+BATCH-2025-0411,Hydraulic Valve Body,193,10.54,CNC,Morning,2025-02-08,465.19
+BATCH-2025-0412,Precision Drive Shaft,235,14.04,Ship Gearbox,Afternoon,2025-01-26,526.79
+BATCH-2025-0413,Hydraulic Valve Body,163,6.92,CNC,Afternoon,2025-06-15,358.86
+BATCH-2025-0414,Industrial Gearbox Housing,372,12.91,Lathe,Night,2025-06-18,527.95
+BATCH-2025-0415,Turbine Blade Mount,261,12.47,Lathe,Evening,2025-03-03,428.45
+BATCH-2025-0416,Precision Drive Shaft,149,5.38,GEARBOX,Morning,2025-01-19,266.73
+BATCH-2025-0417,Flange Connector,266,15.07,CNC,Night,2025-04-04,701.93
+BATCH-2025-0418,Flange Connector,467,15.36,Lathe,Afternoon,2025-01-05,616.15
+BATCH-2025-0419,Flange Connector,90,5.67,CNC,Morning,2025-05-10,250.85
+BATCH-2025-0420,Turbine Blade Mount,183,7.93,Ship Gearbox,Afternoon,2025-06-13,358.72
+BATCH-2025-0421,Flange Connector,125,5.88,Ship Gearbox,Evening,2025-02-09,250.83
+BATCH-2025-0422,Flange Connector,309,10.21,Milling Machine,Afternoon,2025-06-16,809.3
+BATCH-2025-0423,Industrial Gearbox Housing,390,12.22,Milling Machine,Afternoon,2025-04-22,1004.69
+BATCH-2025-0424,Industrial Gearbox Housing,189,6.33,GEARBOX,Morning,2025-02-14,321.76
+BATCH-2025-0425,Industrial Gearbox Housing,216,11.82,CNC,Evening,2025-03-08,546.94
+BATCH-2025-0426,Hydraulic Valve Body,406,12.5,Milling Machine,Evening,2025-01-31,1045.47
+BATCH-2025-0427,Industrial Gearbox Housing,95,5.81,Milling Machine,Afternoon,2025-01-20,326.16
+BATCH-2025-0428,Precision Drive Shaft,89,2.78,GEARBOX,Night,2025-02-12,153.93
+BATCH-2025-0429,Turbine Blade Mount,422,12.83,Lathe,Night,2025-05-11,575.42
+BATCH-2025-0430,Industrial Gearbox Housing,132,5.42,CNC,Morning,2025-04-09,279.12
+BATCH-2025-0431,Hydraulic Valve Body,324,9.74,Lathe,Morning,2025-03-24,416.27
+BATCH-2025-0432,Hydraulic Valve Body,96,5.8,GEARBOX,Night,2025-04-06,222.18
+BATCH-2025-0433,Industrial Gearbox Housing,140,4.51,Ship Gearbox,Morning,2025-01-18,259.9
+BATCH-2025-0434,Precision Drive Shaft,171,6.58,Milling Machine,Night,2025-01-03,499.4
+BATCH-2025-0435,Turbine Blade Mount,208,9.89,Lathe,Night,2025-06-01,336.62
+BATCH-2025-0436,Precision Drive Shaft,138,4.11,Lathe,Evening,2025-01-07,180.11
+BATCH-2025-0437,Hydraulic Valve Body,315,10.9,Ship Gearbox,Night,2025-06-18,589.05
+BATCH-2025-0438,Precision Drive Shaft,169,4.87,Milling Machine,Morning,2025-04-18,420.65
+BATCH-2025-0439,Precision Drive Shaft,202,11.96,CNC,Evening,2025-05-14,538.65
+BATCH-2025-0440,Precision Drive Shaft,261,15.64,Milling Machine,Afternoon,2025-01-25,875.15
+BATCH-2025-0441,Flange Connector,80,3.05,Lathe,Afternoon,2025-03-02,98.86
+BATCH-2025-0442,Turbine Blade Mount,342,14.96,Milling Machine,Night,2025-03-25,1052.54
+BATCH-2025-0443,Turbine Blade Mount,179,5.27,GEARBOX,Night,2025-01-28,320.72
+BATCH-2025-0444,Hydraulic Valve Body,176,8.29,CNC,Evening,2025-01-31,419.81
+BATCH-2025-0445,Flange Connector,202,8.33,Milling Machine,Evening,2025-06-25,587.96
+BATCH-2025-0446,Turbine Blade Mount,161,5.01,Ship Gearbox,Morning,2025-02-07,269.49
+BATCH-2025-0447,Industrial Gearbox Housing,121,7.55,Lathe,Night,2025-02-14,226.5
+BATCH-2025-0448,Industrial Gearbox Housing,254,9.78,GEARBOX,Afternoon,2025-01-25,472.23
+BATCH-2025-0449,Precision Drive Shaft,60,3.7,CNC,Evening,2025-02-20,165.56
+BATCH-2025-0450,Precision Drive Shaft,205,10.15,Milling Machine,Morning,2025-01-20,621.88
+BATCH-2025-0451,Industrial Gearbox Housing,349,14.63,CNC,Evening,2025-03-26,775.45
+BATCH-2025-0452,Industrial Gearbox Housing,91,2.71,CNC,Afternoon,2025-04-21,189.07
+BATCH-2025-0453,Precision Drive Shaft,173,7.36,GEARBOX,Morning,2025-03-12,312.18
+BATCH-2025-0454,Turbine Blade Mount,68,2.49,GEARBOX,Evening,2025-03-04,141.7
+BATCH-2025-0455,Turbine Blade Mount,353,14.36,GEARBOX,Afternoon,2025-04-18,655.37
+BATCH-2025-0456,Hydraulic Valve Body,336,10.83,Ship Gearbox,Evening,2025-01-05,587.95
+BATCH-2025-0457,Precision Drive Shaft,238,9.62,Milling Machine,Afternoon,2025-04-10,682.75
+BATCH-2025-0458,Turbine Blade Mount,125,6.46,Lathe,Morning,2025-03-13,196.76
+BATCH-2025-0459,Industrial Gearbox Housing,446,12.74,GEARBOX,Night,2025-06-18,754.82
+BATCH-2025-0460,Hydraulic Valve Body,431,12.7,Milling Machine,Morning,2025-05-28,1071.15
+BATCH-2025-0461,Precision Drive Shaft,120,4.47,Milling Machine,Evening,2025-06-01,341.9
+BATCH-2025-0462,Industrial Gearbox Housing,185,9.88,Milling Machine,Evening,2025-05-07,589.92
+BATCH-2025-0463,Flange Connector,149,8.87,Milling Machine,Evening,2025-05-15,512.71
+BATCH-2025-0464,Precision Drive Shaft,283,14.85,CNC,Night,2025-02-03,717.2
+BATCH-2025-0465,Turbine Blade Mount,51,2.83,Lathe,Night,2025-01-29,97.88
+BATCH-2025-0466,Flange Connector,245,7.23,Milling Machine,Morning,2025-04-12,607.45
+BATCH-2025-0467,Flange Connector,110,6.22,CNC,Night,2025-06-13,304.99
+BATCH-2025-0468,Precision Drive Shaft,312,11.9,Milling Machine,Evening,2025-06-07,889.26
+BATCH-2025-0469,Turbine Blade Mount,217,7.3,Lathe,Evening,2025-01-01,299.0
+BATCH-2025-0470,Flange Connector,97,4.55,GEARBOX,Morning,2025-06-06,195.83
+BATCH-2025-0471,Hydraulic Valve Body,269,15.11,Ship Gearbox,Morning,2025-03-23,572.71
+BATCH-2025-0472,Hydraulic Valve Body,168,8.25,CNC,Night,2025-03-05,408.36
+BATCH-2025-0473,Industrial Gearbox Housing,383,13.02,Milling Machine,Night,2025-04-18,1066.54
+BATCH-2025-0474,Hydraulic Valve Body,316,14.34,GEARBOX,Afternoon,2025-04-07,611.62
+BATCH-2025-0475,Industrial Gearbox Housing,71,4.28,GEARBOX,Evening,2025-03-23,168.59
+BATCH-2025-0476,Turbine Blade Mount,222,6.79,CNC,Morning,2025-02-11,415.27
+BATCH-2025-0477,Industrial Gearbox Housing,234,6.73,Ship Gearbox,Morning,2025-04-21,393.32
+BATCH-2025-0478,Hydraulic Valve Body,72,4.2,Ship Gearbox,Afternoon,2025-02-22,154.58
+BATCH-2025-0479,Hydraulic Valve Body,236,11.25,GEARBOX,Night,2025-05-21,497.31
+BATCH-2025-0480,Precision Drive Shaft,166,7.05,Lathe,Morning,2025-03-17,249.33
+BATCH-2025-0481,Flange Connector,64,3.36,GEARBOX,Evening,2025-05-02,125.74
+BATCH-2025-0482,Industrial Gearbox Housing,283,8.59,Milling Machine,Afternoon,2025-03-09,703.77
+BATCH-2025-0483,Industrial Gearbox Housing,150,4.59,Ship Gearbox,Afternoon,2025-03-09,250.17
+BATCH-2025-0484,Precision Drive Shaft,105,5.17,GEARBOX,Night,2025-01-16,234.55
+BATCH-2025-0485,Hydraulic Valve Body,354,11.35,CNC,Morning,2025-02-28,667.97
+BATCH-2025-0486,Flange Connector,315,13.46,CNC,Afternoon,2025-05-18,693.78
+BATCH-2025-0487,Precision Drive Shaft,144,8.67,Ship Gearbox,Evening,2025-05-09,339.12
+BATCH-2025-0488,Flange Connector,111,3.68,Ship Gearbox,Evening,2025-02-14,192.84
+BATCH-2025-0489,Hydraulic Valve Body,88,3.77,Lathe,Evening,2025-06-10,146.66
+BATCH-2025-0490,Hydraulic Valve Body,191,6.48,Ship Gearbox,Night,2025-01-18,354.45
+BATCH-2025-0491,Industrial Gearbox Housing,313,9.73,GEARBOX,Afternoon,2025-01-04,502.02
+BATCH-2025-0492,Flange Connector,64,3.58,Ship Gearbox,Afternoon,2025-05-26,139.99
+BATCH-2025-0493,Flange Connector,392,14.95,Ship Gearbox,Morning,2025-05-18,710.59
+BATCH-2025-0494,Turbine Blade Mount,182,7.36,GEARBOX,Night,2025-06-05,359.52
+BATCH-2025-0495,Precision Drive Shaft,105,5.86,CNC,Evening,2025-01-10,258.47
+BATCH-2025-0496,Precision Drive Shaft,66,2.69,Milling Machine,Evening,2025-03-10,188.14
+BATCH-2025-0497,Turbine Blade Mount,283,13.44,CNC,Night,2025-06-28,677.28
+BATCH-2025-0498,Industrial Gearbox Housing,186,6.21,Lathe,Evening,2025-03-24,267.08
+BATCH-2025-0499,Turbine Blade Mount,89,4.63,GEARBOX,Morning,2025-05-13,190.0
+BATCH-2025-0500,Turbine Blade Mount,85,2.92,CNC,Evening,2025-04-14,165.81
+BATCH-2025-0501,Hydraulic Valve Body,144,4.43,Ship Gearbox,Morning,2025-01-09,243.98
+BATCH-2025-0502,Precision Drive Shaft,243,11.86,CNC,Night,2025-04-29,594.77
+BATCH-2025-0503,Flange Connector,229,11.54,GEARBOX,Morning,2025-05-02,450.27
+BATCH-2025-0504,Flange Connector,217,6.82,Ship Gearbox,Night,2025-03-08,392.15
+BATCH-2025-0505,Industrial Gearbox Housing,135,7.41,Milling Machine,Morning,2025-02-26,416.62
+BATCH-2025-0506,Hydraulic Valve Body,281,11.12,Lathe,Night,2025-06-24,417.17
+BATCH-2025-0507,Industrial Gearbox Housing,299,11.06,GEARBOX,Evening,2025-03-20,543.02
+BATCH-2025-0508,Turbine Blade Mount,337,13.92,GEARBOX,Afternoon,2025-02-25,623.81
+BATCH-2025-0509,Precision Drive Shaft,154,10.18,Milling Machine,Afternoon,2025-04-06,571.38
+BATCH-2025-0510,Flange Connector,106,6.18,Ship Gearbox,Night,2025-01-17,251.16
+BATCH-2025-0511,Turbine Blade Mount,284,14.06,Milling Machine,Night,2025-03-18,913.31
+BATCH-2025-0512,Hydraulic Valve Body,454,14.6,Lathe,Evening,2025-06-03,593.72
+BATCH-2025-0513,Precision Drive Shaft,340,12.1,Milling Machine,Evening,2025-04-18,932.0
+BATCH-2025-0514,Precision Drive Shaft,355,10.16,GEARBOX,Morning,2025-02-18,565.61
+BATCH-2025-0515,Turbine Blade Mount,418,14.69,Lathe,Afternoon,2025-06-18,557.13
+BATCH-2025-0516,Flange Connector,59,3.37,Lathe,Night,2025-03-08,113.49
+BATCH-2025-0517,Flange Connector,217,11.16,Lathe,Night,2025-04-18,372.43
+BATCH-2025-0518,Turbine Blade Mount,248,10.2,Milling Machine,Night,2025-01-31,757.52
+BATCH-2025-0519,Precision Drive Shaft,163,8.61,CNC,Morning,2025-05-16,398.84
+BATCH-2025-0520,Turbine Blade Mount,256,14.19,GEARBOX,Morning,2025-02-21,544.58
+BATCH-2025-0521,Turbine Blade Mount,129,4.01,GEARBOX,Afternoon,2025-03-27,219.12
+BATCH-2025-0522,Hydraulic Valve Body,42,2.07,Milling Machine,Morning,2025-02-13,135.23
+BATCH-2025-0523,Flange Connector,397,12.99,Lathe,Afternoon,2025-04-20,536.37
+BATCH-2025-0524,Precision Drive Shaft,116,7.37,GEARBOX,Afternoon,2025-02-21,272.92
+BATCH-2025-0525,Turbine Blade Mount,323,12.6,CNC,Night,2025-03-05,710.76
+BATCH-2025-0526,Hydraulic Valve Body,86,3.81,Milling Machine,Night,2025-05-31,273.09
+BATCH-2025-0527,Turbine Blade Mount,284,13.53,Lathe,Morning,2025-06-02,432.55
+BATCH-2025-0528,Flange Connector,504,14.43,Milling Machine,Afternoon,2025-03-29,1266.48
+BATCH-2025-0529,Precision Drive Shaft,143,4.31,Milling Machine,Evening,2025-02-27,372.36
+BATCH-2025-0530,Hydraulic Valve Body,189,10.26,Lathe,Morning,2025-04-04,307.84
+BATCH-2025-0531,Industrial Gearbox Housing,352,12.8,GEARBOX,Night,2025-01-28,646.64
+BATCH-2025-0532,Industrial Gearbox Housing,177,7.83,CNC,Morning,2025-05-21,388.26
+BATCH-2025-0533,Turbine Blade Mount,140,4.88,GEARBOX,Evening,2025-01-26,258.37
+BATCH-2025-0534,Flange Connector,259,7.86,Milling Machine,Evening,2025-05-11,668.87
+BATCH-2025-0535,Flange Connector,62,3.6,CNC,Night,2025-03-09,174.97
+BATCH-2025-0536,Flange Connector,248,11.85,Lathe,Night,2025-01-11,412.6
+BATCH-2025-0537,Flange Connector,286,11.63,GEARBOX,Evening,2025-01-23,533.89
+BATCH-2025-0538,Industrial Gearbox Housing,69,4.09,Ship Gearbox,Afternoon,2025-05-11,158.29
+BATCH-2025-0539,Industrial Gearbox Housing,266,11.02,CNC,Night,2025-01-13,607.92
+BATCH-2025-0540,Industrial Gearbox Housing,309,13.93,Lathe,Morning,2025-06-23,461.78
+BATCH-2025-0541,Turbine Blade Mount,100,3.33,GEARBOX,Morning,2025-06-19,186.6
+BATCH-2025-0542,Hydraulic Valve Body,495,14.52,Milling Machine,Night,2025-03-10,1300.92
+BATCH-2025-0543,Industrial Gearbox Housing,105,4.56,Milling Machine,Night,2025-04-09,334.17
+BATCH-2025-0544,Precision Drive Shaft,104,3.58,GEARBOX,Evening,2025-01-16,185.44
+BATCH-2025-0545,Hydraulic Valve Body,364,14.76,CNC,Afternoon,2025-06-06,767.34
+BATCH-2025-0546,Precision Drive Shaft,459,14.08,Milling Machine,Morning,2025-02-03,1152.98
+BATCH-2025-0547,Precision Drive Shaft,344,14.43,GEARBOX,Morning,2025-01-04,643.91
+BATCH-2025-0548,Flange Connector,446,15.69,Ship Gearbox,Evening,2025-03-28,801.0
+BATCH-2025-0549,Flange Connector,238,8.06,Ship Gearbox,Morning,2025-06-14,400.15
+BATCH-2025-0550,Precision Drive Shaft,73,2.16,Lathe,Morning,2025-05-10,98.63
+BATCH-2025-0551,Precision Drive Shaft,76,3.05,GEARBOX,Evening,2025-01-13,148.16
+BATCH-2025-0552,Flange Connector,151,7.65,Lathe,Afternoon,2025-04-28,264.97
+BATCH-2025-0553,Precision Drive Shaft,81,3.23,Ship Gearbox,Afternoon,2025-06-17,145.65
+BATCH-2025-0554,Industrial Gearbox Housing,203,7.77,CNC,Afternoon,2025-01-01,445.25
+BATCH-2025-0555,Industrial Gearbox Housing,380,14.46,Ship Gearbox,Night,2025-03-29,719.21
+BATCH-2025-0556,Turbine Blade Mount,299,13.82,CNC,Evening,2025-06-08,676.81
+BATCH-2025-0557,Flange Connector,208,12.02,GEARBOX,Night,2025-03-29,475.14
+BATCH-2025-0558,Turbine Blade Mount,188,11.83,Milling Machine,Night,2025-02-12,679.86
+BATCH-2025-0559,Precision Drive Shaft,95,3.5,Lathe,Afternoon,2025-04-11,144.11
+BATCH-2025-0560,Hydraulic Valve Body,207,12.04,GEARBOX,Evening,2025-04-17,473.95
+BATCH-2025-0561,Industrial Gearbox Housing,308,12.81,Ship Gearbox,Morning,2025-02-04,563.5
+BATCH-2025-0562,Precision Drive Shaft,231,9.75,CNC,Morning,2025-05-30,479.91
+BATCH-2025-0563,Precision Drive Shaft,216,11.69,Ship Gearbox,Evening,2025-06-18,466.47
+BATCH-2025-0564,Flange Connector,206,9.06,Ship Gearbox,Night,2025-06-05,417.73
+BATCH-2025-0565,Hydraulic Valve Body,533,15.49,Milling Machine,Afternoon,2025-04-16,1328.21
+BATCH-2025-0566,Flange Connector,358,13.8,Ship Gearbox,Night,2025-03-22,687.56
+BATCH-2025-0567,Flange Connector,145,4.94,Lathe,Evening,2025-02-03,197.26
+BATCH-2025-0568,Hydraulic Valve Body,361,11.94,Ship Gearbox,Night,2025-05-24,638.0
+BATCH-2025-0569,Precision Drive Shaft,376,11.44,Ship Gearbox,Afternoon,2025-04-19,615.69
+BATCH-2025-0570,Industrial Gearbox Housing,42,2.35,Ship Gearbox,Morning,2025-06-21,90.03
+BATCH-2025-0571,Industrial Gearbox Housing,228,12.5,Lathe,Night,2025-01-16,397.85
+BATCH-2025-0572,Turbine Blade Mount,169,7.02,Lathe,Morning,2025-06-07,252.85
+BATCH-2025-0573,Flange Connector,164,5.33,Lathe,Afternoon,2025-06-20,224.15
+BATCH-2025-0574,Industrial Gearbox Housing,241,7.83,GEARBOX,Afternoon,2025-06-25,401.6
+BATCH-2025-0575,Turbine Blade Mount,44,2.18,Ship Gearbox,Morning,2025-04-24,82.51
+BATCH-2025-0576,Hydraulic Valve Body,441,12.87,Milling Machine,Evening,2025-03-17,1108.19
+BATCH-2025-0577,Precision Drive Shaft,85,4.62,Lathe,Morning,2025-04-20,134.17
+BATCH-2025-0578,Turbine Blade Mount,102,3.82,Ship Gearbox,Night,2025-03-07,201.33
+BATCH-2025-0579,Industrial Gearbox Housing,216,11.94,Milling Machine,Afternoon,2025-01-14,707.64
+BATCH-2025-0580,Flange Connector,340,13.06,Milling Machine,Afternoon,2025-01-19,947.75
+BATCH-2025-0581,Turbine Blade Mount,391,15.4,Ship Gearbox,Evening,2025-05-20,730.51
+BATCH-2025-0582,Flange Connector,225,6.89,GEARBOX,Morning,2025-06-19,364.12
+BATCH-2025-0583,Turbine Blade Mount,208,6.11,Milling Machine,Night,2025-05-24,545.31
+BATCH-2025-0584,Industrial Gearbox Housing,273,8.24,CNC,Night,2025-06-07,540.18
+BATCH-2025-0585,Flange Connector,248,11.56,Lathe,Morning,2025-04-09,394.28
+BATCH-2025-0586,Turbine Blade Mount,60,2.35,Ship Gearbox,Night,2025-04-06,116.0
+BATCH-2025-0587,Flange Connector,185,8.82,Ship Gearbox,Afternoon,2025-01-22,367.81
+BATCH-2025-0588,Industrial Gearbox Housing,207,10.78,Lathe,Morning,2025-06-11,326.14
+BATCH-2025-0589,Hydraulic Valve Body,154,4.88,GEARBOX,Morning,2025-04-22,266.49
+BATCH-2025-0590,Industrial Gearbox Housing,182,8.43,Lathe,Morning,2025-01-23,268.63
+BATCH-2025-0591,Industrial Gearbox Housing,343,13.12,CNC,Evening,2025-03-08,717.12
+BATCH-2025-0592,Precision Drive Shaft,256,10.82,GEARBOX,Afternoon,2025-01-05,477.05
+BATCH-2025-0593,Precision Drive Shaft,300,10.98,CNC,Morning,2025-06-29,606.96
+BATCH-2025-0594,Industrial Gearbox Housing,174,6.06,Milling Machine,Morning,2025-06-05,451.17
+BATCH-2025-0595,Industrial Gearbox Housing,231,7.34,Milling Machine,Afternoon,2025-02-26,603.11
+BATCH-2025-0596,Hydraulic Valve Body,276,15.44,GEARBOX,Night,2025-06-23,617.11
+BATCH-2025-0597,Turbine Blade Mount,56,3.73,CNC,Evening,2025-01-22,152.09
+BATCH-2025-0598,Turbine Blade Mount,164,4.96,Lathe,Night,2025-05-12,225.62
+BATCH-2025-0599,Hydraulic Valve Body,161,5.09,Lathe,Evening,2025-05-26,222.01
+BATCH-2025-0600,Industrial Gearbox Housing,182,11.03,Ship Gearbox,Afternoon,2025-06-21,413.48
+BATCH-2025-0601,Industrial Gearbox Housing,127,4.76,Milling Machine,Morning,2025-06-21,355.0
+BATCH-2025-0602,Hydraulic Valve Body,352,10.67,CNC,Night,2025-03-23,699.74
+BATCH-2025-0603,Precision Drive Shaft,224,10.63,GEARBOX,Night,2025-04-04,456.53
+BATCH-2025-0604,Turbine Blade Mount,41,2.07,GEARBOX,Evening,2025-02-26,85.76
+BATCH-2025-0605,Precision Drive Shaft,115,3.88,Milling Machine,Night,2025-04-02,331.73
+BATCH-2025-0606,Turbine Blade Mount,121,4.46,GEARBOX,Morning,2025-03-13,208.37
+BATCH-2025-0607,Hydraulic Valve Body,186,5.69,Ship Gearbox,Evening,2025-01-05,323.97
+BATCH-2025-0608,Flange Connector,246,12.77,CNC,Afternoon,2025-01-10,589.37
+BATCH-2025-0609,Flange Connector,200,11.15,Milling Machine,Afternoon,2025-05-31,641.47
+BATCH-2025-0610,Turbine Blade Mount,152,9.02,Lathe,Afternoon,2025-04-04,274.58
+BATCH-2025-0611,Flange Connector,432,13.87,CNC,Evening,2025-05-12,844.38
+BATCH-2025-0612,Hydraulic Valve Body,153,4.51,GEARBOX,Evening,2025-06-18,253.8
+BATCH-2025-0613,Hydraulic Valve Body,78,2.57,GEARBOX,Night,2025-03-01,148.63
+BATCH-2025-0614,Industrial Gearbox Housing,248,7.43,Lathe,Night,2025-01-12,348.79
+BATCH-2025-0615,Industrial Gearbox Housing,301,11.85,Milling Machine,Morning,2025-03-09,840.74
+BATCH-2025-0616,Flange Connector,164,7.27,Ship Gearbox,Evening,2025-05-31,312.16
+BATCH-2025-0617,Industrial Gearbox Housing,241,7.27,Ship Gearbox,Night,2025-03-30,420.33
+BATCH-2025-0618,Precision Drive Shaft,161,9.03,GEARBOX,Morning,2025-02-12,340.34
+BATCH-2025-0619,Hydraulic Valve Body,93,4.96,CNC,Night,2025-01-31,235.51
+BATCH-2025-0620,Hydraulic Valve Body,298,12.08,GEARBOX,Night,2025-05-03,584.88
+BATCH-2025-0621,Precision Drive Shaft,257,11.06,Lathe,Evening,2025-06-01,388.92
+BATCH-2025-0622,Hydraulic Valve Body,260,14.47,Lathe,Morning,2025-02-12,432.76
+BATCH-2025-0623,Turbine Blade Mount,273,10.39,Lathe,Afternoon,2025-06-19,399.95
+BATCH-2025-0624,Turbine Blade Mount,289,8.29,CNC,Evening,2025-05-04,549.25
+BATCH-2025-0625,Hydraulic Valve Body,322,10.41,Lathe,Afternoon,2025-06-18,431.81
+BATCH-2025-0626,Flange Connector,265,12.14,Milling Machine,Evening,2025-04-27,796.13
+BATCH-2025-0627,Flange Connector,119,5.22,Ship Gearbox,Morning,2025-05-10,234.04
+BATCH-2025-0628,Precision Drive Shaft,148,4.48,Lathe,Morning,2025-06-03,196.91
+BATCH-2025-0629,Industrial Gearbox Housing,93,3.3,Ship Gearbox,Morning,2025-01-01,174.83
+BATCH-2025-0630,Precision Drive Shaft,114,7.19,Ship Gearbox,Afternoon,2025-05-16,257.61
+BATCH-2025-0631,Precision Drive Shaft,295,13.05,Lathe,Afternoon,2025-06-28,432.63
+BATCH-2025-0632,Flange Connector,95,3.87,CNC,Afternoon,2025-03-01,200.15
+BATCH-2025-0633,Industrial Gearbox Housing,85,5.61,Milling Machine,Afternoon,2025-05-14,306.27
+BATCH-2025-0634,Industrial Gearbox Housing,139,7.25,Ship Gearbox,Morning,2025-03-22,287.44
+BATCH-2025-0635,Precision Drive Shaft,117,4.17,Milling Machine,Morning,2025-04-19,314.45
+BATCH-2025-0636,Flange Connector,365,15.89,Milling Machine,Night,2025-02-22,1127.25
+BATCH-2025-0637,Precision Drive Shaft,118,4.5,Ship Gearbox,Afternoon,2025-05-28,195.12
+BATCH-2025-0638,Turbine Blade Mount,394,13.97,GEARBOX,Evening,2025-02-28,696.02
+BATCH-2025-0639,Precision Drive Shaft,115,5.0,Lathe,Morning,2025-06-28,167.41
+BATCH-2025-0640,Industrial Gearbox Housing,234,15.5,Lathe,Afternoon,2025-01-24,434.65
+BATCH-2025-0641,Hydraulic Valve Body,65,3.23,GEARBOX,Afternoon,2025-04-09,127.74
+BATCH-2025-0642,Precision Drive Shaft,322,11.96,Ship Gearbox,Night,2025-02-14,617.91
+BATCH-2025-0643,Precision Drive Shaft,136,4.82,GEARBOX,Morning,2025-01-09,239.15
+BATCH-2025-0644,Flange Connector,302,10.61,Ship Gearbox,Evening,2025-04-03,535.45
+BATCH-2025-0645,Hydraulic Valve Body,66,3.22,CNC,Evening,2025-04-14,151.43
+BATCH-2025-0646,Flange Connector,202,12.32,Lathe,Morning,2025-01-24,356.21
+BATCH-2025-0647,Flange Connector,215,6.86,Milling Machine,Night,2025-04-27,589.22
+BATCH-2025-0648,Precision Drive Shaft,131,5.66,Ship Gearbox,Morning,2025-01-28,271.3
+BATCH-2025-0649,Flange Connector,117,6.76,CNC,Night,2025-05-18,309.42
+BATCH-2025-0650,Flange Connector,408,15.52,Milling Machine,Afternoon,2025-03-04,1124.32
+BATCH-2025-0651,Turbine Blade Mount,469,14.55,GEARBOX,Afternoon,2025-04-08,769.1
+BATCH-2025-0652,Hydraulic Valve Body,171,7.77,Lathe,Night,2025-05-18,279.53
+BATCH-2025-0653,Industrial Gearbox Housing,138,6.02,Milling Machine,Evening,2025-05-22,412.13
+BATCH-2025-0654,Hydraulic Valve Body,229,6.95,GEARBOX,Night,2025-03-10,392.16
+BATCH-2025-0655,Hydraulic Valve Body,243,12.32,Lathe,Afternoon,2025-02-28,389.13
+BATCH-2025-0656,Hydraulic Valve Body,72,4.18,Lathe,Night,2025-01-21,143.98
+BATCH-2025-0657,Precision Drive Shaft,328,12.7,Ship Gearbox,Morning,2025-06-08,603.26
+BATCH-2025-0658,Turbine Blade Mount,308,8.87,GEARBOX,Night,2025-05-11,526.28
+BATCH-2025-0659,Turbine Blade Mount,220,12.5,GEARBOX,Evening,2025-05-19,471.21
+BATCH-2025-0660,Industrial Gearbox Housing,216,7.51,Ship Gearbox,Night,2025-02-14,402.07
+BATCH-2025-0661,Precision Drive Shaft,97,6.42,CNC,Afternoon,2025-01-26,262.63
+BATCH-2025-0662,Turbine Blade Mount,94,4.62,Milling Machine,Night,2025-03-10,303.74
+BATCH-2025-0663,Precision Drive Shaft,178,7.12,Ship Gearbox,Night,2025-04-06,355.21
+BATCH-2025-0664,Turbine Blade Mount,220,8.31,GEARBOX,Night,2025-05-28,428.02
+BATCH-2025-0665,Hydraulic Valve Body,346,13.26,CNC,Night,2025-02-08,757.54
+BATCH-2025-0666,Precision Drive Shaft,140,7.9,CNC,Evening,2025-06-11,352.49
+BATCH-2025-0667,Flange Connector,273,12.99,Ship Gearbox,Night,2025-04-12,563.24
+BATCH-2025-0668,Industrial Gearbox Housing,101,5.02,Lathe,Morning,2025-06-11,157.19
+BATCH-2025-0669,Industrial Gearbox Housing,125,5.64,GEARBOX,Night,2025-03-30,245.73
+BATCH-2025-0670,Industrial Gearbox Housing,198,6.92,GEARBOX,Morning,2025-06-05,335.77
+BATCH-2025-0671,Hydraulic Valve Body,325,15.71,Ship Gearbox,Evening,2025-04-25,656.74
+BATCH-2025-0672,Industrial Gearbox Housing,290,8.49,GEARBOX,Night,2025-02-12,505.16
+BATCH-2025-0673,Turbine Blade Mount,228,13.88,GEARBOX,Afternoon,2025-03-23,510.17
+BATCH-2025-0674,Turbine Blade Mount,139,5.8,Milling Machine,Afternoon,2025-04-03,406.57
+BATCH-2025-0675,Flange Connector,146,7.8,Ship Gearbox,Afternoon,2025-06-19,322.78
+BATCH-2025-0676,Turbine Blade Mount,74,4.34,CNC,Evening,2025-01-17,197.83
+BATCH-2025-0677,Precision Drive Shaft,54,2.37,Ship Gearbox,Morning,2025-03-09,107.37
+BATCH-2025-0678,Flange Connector,365,11.17,Lathe,Morning,2025-03-21,468.31
+BATCH-2025-0679,Hydraulic Valve Body,144,8.2,Lathe,Night,2025-01-09,256.24
+BATCH-2025-0680,Turbine Blade Mount,277,8.54,Milling Machine,Afternoon,2025-03-11,708.31
+BATCH-2025-0681,Flange Connector,451,15.57,GEARBOX,Evening,2025-06-11,789.6
+BATCH-2025-0682,Flange Connector,363,14.72,GEARBOX,Night,2025-02-28,707.82
+BATCH-2025-0683,Industrial Gearbox Housing,144,7.12,GEARBOX,Night,2025-02-04,309.03
+BATCH-2025-0684,Turbine Blade Mount,273,9.49,Milling Machine,Afternoon,2025-05-06,729.43
+BATCH-2025-0685,Precision Drive Shaft,394,12.72,Milling Machine,Morning,2025-05-21,999.55
+BATCH-2025-0686,Turbine Blade Mount,341,14.35,Lathe,Afternoon,2025-03-05,493.48
+BATCH-2025-0687,Hydraulic Valve Body,84,5.09,GEARBOX,Afternoon,2025-06-06,183.38
+BATCH-2025-0688,Turbine Blade Mount,250,7.78,Milling Machine,Night,2025-02-16,667.02
+BATCH-2025-0689,Hydraulic Valve Body,299,10.92,Milling Machine,Morning,2025-02-18,802.56
+BATCH-2025-0690,Turbine Blade Mount,69,2.69,CNC,Evening,2025-02-17,163.88
+BATCH-2025-0691,Industrial Gearbox Housing,89,3.75,Milling Machine,Night,2025-01-04,279.92
+BATCH-2025-0692,Precision Drive Shaft,242,7.88,Lathe,Night,2025-05-08,344.0
+BATCH-2025-0693,Turbine Blade Mount,211,6.62,GEARBOX,Morning,2025-04-11,351.61
+BATCH-2025-0694,Industrial Gearbox Housing,149,4.54,Ship Gearbox,Afternoon,2025-03-06,253.26
+BATCH-2025-0695,Precision Drive Shaft,458,15.64,CNC,Morning,2025-03-05,882.4
+BATCH-2025-0696,Industrial Gearbox Housing,207,12.29,Lathe,Afternoon,2025-06-20,371.88
+BATCH-2025-0697,Hydraulic Valve Body,245,11.54,GEARBOX,Afternoon,2025-01-11,476.45
+BATCH-2025-0698,Flange Connector,154,5.55,Ship Gearbox,Morning,2025-02-20,284.4
+BATCH-2025-0699,Turbine Blade Mount,308,15.63,CNC,Evening,2025-03-12,734.45
+BATCH-2025-0700,Flange Connector,198,13.05,CNC,Afternoon,2025-01-11,536.51
+BATCH-2025-0701,Flange Connector,121,7.2,GEARBOX,Evening,2025-06-08,275.37
+BATCH-2025-0702,Turbine Blade Mount,126,6.98,CNC,Morning,2025-05-18,312.69
+BATCH-2025-0703,Industrial Gearbox Housing,182,5.26,Lathe,Afternoon,2025-04-23,239.85
+BATCH-2025-0704,Hydraulic Valve Body,124,7.01,CNC,Afternoon,2025-01-11,298.99
+BATCH-2025-0705,Precision Drive Shaft,238,9.6,GEARBOX,Night,2025-03-24,451.72
+BATCH-2025-0706,Precision Drive Shaft,54,2.96,Milling Machine,Evening,2025-03-17,179.34
+BATCH-2025-0707,Turbine Blade Mount,255,8.36,Ship Gearbox,Night,2025-01-05,451.53
+BATCH-2025-0708,Flange Connector,106,6.49,Milling Machine,Evening,2025-05-18,371.27
+BATCH-2025-0709,Precision Drive Shaft,230,12.72,Lathe,Afternoon,2025-03-24,381.62
+BATCH-2025-0710,Industrial Gearbox Housing,88,2.61,CNC,Morning,2025-02-15,176.06
+BATCH-2025-0711,Industrial Gearbox Housing,149,8.8,Lathe,Morning,2025-06-18,241.12
+BATCH-2025-0712,Precision Drive Shaft,52,2.69,Ship Gearbox,Night,2025-01-19,116.33
+BATCH-2025-0713,Industrial Gearbox Housing,475,15.0,Lathe,Afternoon,2025-04-03,614.7
+BATCH-2025-0714,Flange Connector,212,13.12,GEARBOX,Night,2025-06-07,502.86
+BATCH-2025-0715,Turbine Blade Mount,389,12.28,Ship Gearbox,Morning,2025-05-13,658.86
+BATCH-2025-0716,Industrial Gearbox Housing,177,9.44,CNC,Evening,2025-05-15,439.11
+BATCH-2025-0717,Hydraulic Valve Body,257,9.82,Ship Gearbox,Evening,2025-05-28,476.32
+BATCH-2025-0718,Turbine Blade Mount,263,14.36,GEARBOX,Afternoon,2025-02-16,539.59
+BATCH-2025-0719,Flange Connector,288,11.21,GEARBOX,Night,2025-03-22,532.2
+BATCH-2025-0720,Flange Connector,215,7.77,Milling Machine,Night,2025-03-24,601.98
+BATCH-2025-0721,Flange Connector,189,7.25,Lathe,Evening,2025-04-26,275.14
+BATCH-2025-0722,Precision Drive Shaft,422,12.17,GEARBOX,Morning,2025-06-02,665.69
+BATCH-2025-0723,Industrial Gearbox Housing,335,15.91,Ship Gearbox,Evening,2025-03-22,674.22
+BATCH-2025-0724,Industrial Gearbox Housing,80,3.32,Milling Machine,Evening,2025-02-09,242.84
+BATCH-2025-0725,Hydraulic Valve Body,289,14.45,Milling Machine,Night,2025-05-27,937.26
+BATCH-2025-0726,Precision Drive Shaft,362,12.28,Ship Gearbox,Evening,2025-05-04,646.38
+BATCH-2025-0727,Hydraulic Valve Body,217,10.33,GEARBOX,Morning,2025-01-21,422.69
+BATCH-2025-0728,Industrial Gearbox Housing,339,14.32,Milling Machine,Night,2025-01-31,1009.92
+BATCH-2025-0729,Hydraulic Valve Body,300,10.87,Ship Gearbox,Morning,2025-03-23,539.85
+BATCH-2025-0730,Flange Connector,191,6.58,Ship Gearbox,Evening,2025-02-09,346.36
+BATCH-2025-0731,Industrial Gearbox Housing,332,12.54,GEARBOX,Afternoon,2025-04-11,599.58
+BATCH-2025-0732,Hydraulic Valve Body,84,3.16,Lathe,Night,2025-01-13,137.98
+BATCH-2025-0733,Flange Connector,80,3.19,GEARBOX,Night,2025-02-04,162.8
+BATCH-2025-0734,Precision Drive Shaft,248,8.83,Ship Gearbox,Evening,2025-02-20,444.19
+BATCH-2025-0735,Flange Connector,110,5.39,Ship Gearbox,Evening,2025-05-28,219.38
+BATCH-2025-0736,Industrial Gearbox Housing,174,7.93,CNC,Afternoon,2025-03-24,398.26
+BATCH-2025-0737,Turbine Blade Mount,235,12.78,Ship Gearbox,Morning,2025-04-24,484.83
+BATCH-2025-0738,Flange Connector,82,2.63,Lathe,Afternoon,2025-02-21,125.62
+BATCH-2025-0739,Turbine Blade Mount,57,3.57,Lathe,Morning,2025-03-15,120.79
+BATCH-2025-0740,Industrial Gearbox Housing,153,6.27,Milling Machine,Morning,2025-03-26,427.24
+BATCH-2025-0741,Hydraulic Valve Body,124,4.85,Ship Gearbox,Evening,2025-02-06,235.67
+BATCH-2025-0742,Industrial Gearbox Housing,90,5.58,GEARBOX,Morning,2025-02-21,211.91
+BATCH-2025-0743,Flange Connector,289,8.51,Milling Machine,Morning,2025-06-19,730.87
+BATCH-2025-0744,Turbine Blade Mount,199,6.09,CNC,Morning,2025-04-09,382.56
+BATCH-2025-0745,Hydraulic Valve Body,362,14.65,GEARBOX,Morning,2025-02-20,653.31
+BATCH-2025-0746,Flange Connector,86,2.56,GEARBOX,Morning,2025-03-20,140.69
+BATCH-2025-0747,Turbine Blade Mount,191,12.42,GEARBOX,Afternoon,2025-03-19,437.62
+BATCH-2025-0748,Hydraulic Valve Body,368,13.37,Ship Gearbox,Night,2025-04-10,682.87
+BATCH-2025-0749,Industrial Gearbox Housing,113,5.16,Ship Gearbox,Night,2025-04-08,236.64
+BATCH-2025-0750,Flange Connector,207,7.84,Ship Gearbox,Evening,2025-04-20,386.91
+BATCH-2025-0751,Turbine Blade Mount,146,8.29,Ship Gearbox,Night,2025-06-25,331.24
+BATCH-2025-0752,Hydraulic Valve Body,384,11.64,Lathe,Night,2025-02-04,517.2
+BATCH-2025-0753,Precision Drive Shaft,168,6.44,Lathe,Evening,2025-03-23,249.43
+BATCH-2025-0754,Hydraulic Valve Body,333,14.32,CNC,Night,2025-04-16,761.1
+BATCH-2025-0755,Turbine Blade Mount,77,4.13,GEARBOX,Night,2025-06-06,178.37
+BATCH-2025-0756,Flange Connector,203,10.35,Milling Machine,Evening,2025-01-07,646.6
+BATCH-2025-0757,Turbine Blade Mount,124,3.88,CNC,Afternoon,2025-02-17,231.14
+BATCH-2025-0758,Precision Drive Shaft,74,3.93,GEARBOX,Afternoon,2025-01-09,160.17
+BATCH-2025-0759,Precision Drive Shaft,298,15.3,CNC,Night,2025-02-22,738.35
+BATCH-2025-0760,Industrial Gearbox Housing,351,14.14,Lathe,Afternoon,2025-03-25,502.53
+BATCH-2025-0761,Precision Drive Shaft,121,7.67,Lathe,Afternoon,2025-03-22,217.61
+BATCH-2025-0762,Precision Drive Shaft,223,9.29,Ship Gearbox,Morning,2025-01-11,409.73
+BATCH-2025-0763,Hydraulic Valve Body,249,15.77,Ship Gearbox,Afternoon,2025-01-13,558.99
+BATCH-2025-0764,Hydraulic Valve Body,160,7.57,Milling Machine,Afternoon,2025-03-15,495.57
+BATCH-2025-0765,Precision Drive Shaft,204,6.12,Lathe,Afternoon,2025-04-29,261.29
+BATCH-2025-0766,Precision Drive Shaft,121,4.52,CNC,Morning,2025-06-28,233.55
+BATCH-2025-0767,Flange Connector,187,7.79,Lathe,Afternoon,2025-02-21,281.31
+BATCH-2025-0768,Precision Drive Shaft,183,6.54,CNC,Night,2025-02-11,403.29
+BATCH-2025-0769,Industrial Gearbox Housing,329,11.89,CNC,Morning,2025-05-11,672.16
+BATCH-2025-0770,Flange Connector,154,9.7,Lathe,Afternoon,2025-02-13,281.77
+BATCH-2025-0771,Turbine Blade Mount,76,4.27,Ship Gearbox,Evening,2025-03-20,171.98
+BATCH-2025-0772,Turbine Blade Mount,187,10.77,GEARBOX,Night,2025-02-03,424.8
+BATCH-2025-0773,Hydraulic Valve Body,54,2.17,CNC,Night,2025-06-05,115.65
+BATCH-2025-0774,Precision Drive Shaft,251,10.24,Lathe,Evening,2025-04-15,371.97
+BATCH-2025-0775,Precision Drive Shaft,141,5.43,CNC,Morning,2025-02-23,286.2
+BATCH-2025-0776,Industrial Gearbox Housing,61,2.77,Lathe,Evening,2025-02-07,93.46
+BATCH-2025-0777,Industrial Gearbox Housing,111,6.64,Ship Gearbox,Night,2025-02-11,285.45
+BATCH-2025-0778,Turbine Blade Mount,466,15.53,Ship Gearbox,Evening,2025-04-03,832.09
+BATCH-2025-0779,Industrial Gearbox Housing,215,6.52,CNC,Night,2025-05-21,439.27
+BATCH-2025-0780,Industrial Gearbox Housing,112,3.88,Milling Machine,Afternoon,2025-03-12,290.18
+BATCH-2025-0781,Turbine Blade Mount,270,9.35,Ship Gearbox,Afternoon,2025-06-11,473.02
+BATCH-2025-0782,Flange Connector,329,12.14,CNC,Afternoon,2025-06-30,672.01
+BATCH-2025-0783,Turbine Blade Mount,149,5.64,GEARBOX,Night,2025-06-07,272.74
+BATCH-2025-0784,Flange Connector,166,8.9,GEARBOX,Afternoon,2025-06-06,335.54
+BATCH-2025-0785,Hydraulic Valve Body,31,2.02,Milling Machine,Evening,2025-02-23,115.04
+BATCH-2025-0786,Flange Connector,58,2.64,GEARBOX,Afternoon,2025-06-13,114.0
+BATCH-2025-0787,Hydraulic Valve Body,234,11.66,CNC,Evening,2025-05-21,562.22
+BATCH-2025-0788,Turbine Blade Mount,253,11.6,CNC,Morning,2025-05-26,566.6
+BATCH-2025-0789,Flange Connector,150,4.72,CNC,Evening,2025-05-02,305.59
+BATCH-2025-0790,Industrial Gearbox Housing,101,4.18,Lathe,Afternoon,2025-05-18,147.53
+BATCH-2025-0791,Turbine Blade Mount,242,14.99,GEARBOX,Afternoon,2025-06-23,532.5
+BATCH-2025-0792,Turbine Blade Mount,141,4.92,Ship Gearbox,Morning,2025-04-01,247.3
+BATCH-2025-0793,Industrial Gearbox Housing,300,13.77,Lathe,Night,2025-02-12,475.17
+BATCH-2025-0794,Flange Connector,80,4.62,Ship Gearbox,Afternoon,2025-03-20,185.85
+BATCH-2025-0795,Turbine Blade Mount,194,7.79,CNC,Night,2025-03-19,437.07
+BATCH-2025-0796,Hydraulic Valve Body,100,4.45,Ship Gearbox,Night,2025-01-10,220.35
+BATCH-2025-0797,Hydraulic Valve Body,281,9.08,CNC,Afternoon,2025-03-29,552.16
+BATCH-2025-0798,Precision Drive Shaft,230,12.86,Ship Gearbox,Night,2025-01-26,518.1
+BATCH-2025-0799,Flange Connector,294,12.14,Lathe,Evening,2025-01-02,434.06
+BATCH-2025-0800,Turbine Blade Mount,219,6.67,CNC,Morning,2025-01-27,405.07
+BATCH-2025-0801,Flange Connector,214,10.09,Milling Machine,Morning,2025-02-19,646.1
+BATCH-2025-0802,Turbine Blade Mount,364,12.82,Milling Machine,Night,2025-03-11,1015.13
+BATCH-2025-0803,Hydraulic Valve Body,123,3.6,Lathe,Night,2025-05-19,171.24
+BATCH-2025-0804,Turbine Blade Mount,196,5.79,Ship Gearbox,Night,2025-03-14,346.45
+BATCH-2025-0805,Flange Connector,82,3.0,Lathe,Evening,2025-02-03,117.35
+BATCH-2025-0806,Industrial Gearbox Housing,56,3.48,GEARBOX,Morning,2025-04-20,135.53
+BATCH-2025-0807,Precision Drive Shaft,226,10.63,Lathe,Afternoon,2025-06-21,355.53
+BATCH-2025-0808,Flange Connector,168,9.95,CNC,Afternoon,2025-06-28,419.18
+BATCH-2025-0809,Precision Drive Shaft,177,6.35,CNC,Afternoon,2025-02-27,362.55
+BATCH-2025-0810,Hydraulic Valve Body,338,14.78,Ship Gearbox,Night,2025-06-29,672.76
+BATCH-2025-0811,Turbine Blade Mount,144,8.83,Milling Machine,Afternoon,2025-02-13,502.62
+BATCH-2025-0812,Turbine Blade Mount,211,9.11,Milling Machine,Evening,2025-01-28,629.24
+BATCH-2025-0813,Turbine Blade Mount,336,13.09,Ship Gearbox,Morning,2025-06-08,603.51
+BATCH-2025-0814,Hydraulic Valve Body,354,15.63,Ship Gearbox,Evening,2025-03-29,696.98
+BATCH-2025-0815,Hydraulic Valve Body,308,12.98,Ship Gearbox,Afternoon,2025-03-02,586.5
+BATCH-2025-0816,Hydraulic Valve Body,97,3.6,CNC,Afternoon,2025-03-25,193.8
+BATCH-2025-0817,Flange Connector,153,4.47,CNC,Afternoon,2025-06-02,294.24
+BATCH-2025-0818,Precision Drive Shaft,179,11.03,Milling Machine,Afternoon,2025-02-25,617.86
+BATCH-2025-0819,Hydraulic Valve Body,356,12.6,Ship Gearbox,Morning,2025-06-07,617.05
+BATCH-2025-0820,Flange Connector,159,4.88,GEARBOX,Evening,2025-03-18,272.31
+BATCH-2025-0821,Flange Connector,401,12.05,Milling Machine,Afternoon,2025-06-06,1025.6
+BATCH-2025-0822,Flange Connector,227,13.94,GEARBOX,Evening,2025-05-21,513.52
+BATCH-2025-0823,Industrial Gearbox Housing,73,3.54,CNC,Night,2025-06-01,194.1
+BATCH-2025-0824,Precision Drive Shaft,182,7.68,Milling Machine,Afternoon,2025-02-24,528.15
+BATCH-2025-0825,Hydraulic Valve Body,105,4.64,GEARBOX,Evening,2025-02-09,221.63
+BATCH-2025-0826,Turbine Blade Mount,60,2.16,Lathe,Evening,2025-02-06,83.87
+BATCH-2025-0827,Precision Drive Shaft,89,3.19,GEARBOX,Evening,2025-06-28,155.89
+BATCH-2025-0828,Flange Connector,196,8.36,GEARBOX,Evening,2025-04-26,380.12
+BATCH-2025-0829,Precision Drive Shaft,125,4.6,Milling Machine,Evening,2025-03-02,336.08
+BATCH-2025-0830,Flange Connector,397,14.97,Milling Machine,Afternoon,2025-01-09,1083.66
+BATCH-2025-0831,Industrial Gearbox Housing,205,11.87,Ship Gearbox,Afternoon,2025-02-06,437.38
+BATCH-2025-0832,Flange Connector,235,9.24,Milling Machine,Afternoon,2025-06-06,660.35
+BATCH-2025-0833,Industrial Gearbox Housing,306,10.83,Lathe,Afternoon,2025-05-19,415.9
+BATCH-2025-0834,Flange Connector,377,14.65,Milling Machine,Morning,2025-01-03,1026.66
+BATCH-2025-0835,Precision Drive Shaft,217,10.04,GEARBOX,Afternoon,2025-03-17,410.43
+BATCH-2025-0836,Turbine Blade Mount,316,11.73,Lathe,Morning,2025-03-19,455.44
+BATCH-2025-0837,Flange Connector,287,10.81,Milling Machine,Morning,2025-03-16,770.74
+BATCH-2025-0838,Flange Connector,154,8.79,CNC,Night,2025-01-20,403.92
+BATCH-2025-0839,Turbine Blade Mount,218,10.62,Milling Machine,Evening,2025-06-04,677.63
+BATCH-2025-0840,Hydraulic Valve Body,251,11.23,Ship Gearbox,Evening,2025-02-14,508.95
+BATCH-2025-0841,Turbine Blade Mount,116,4.53,Lathe,Afternoon,2025-02-07,192.16
+BATCH-2025-0842,Flange Connector,292,12.54,Lathe,Afternoon,2025-04-09,438.75
+BATCH-2025-0843,Hydraulic Valve Body,147,4.95,GEARBOX,Evening,2025-01-30,252.39
+BATCH-2025-0844,Industrial Gearbox Housing,159,7.58,Lathe,Afternoon,2025-05-17,259.17
+BATCH-2025-0845,Hydraulic Valve Body,155,8.64,GEARBOX,Afternoon,2025-04-25,332.66
+BATCH-2025-0846,Precision Drive Shaft,86,3.36,Milling Machine,Morning,2025-04-01,240.08
+BATCH-2025-0847,Precision Drive Shaft,136,6.69,Ship Gearbox,Night,2025-04-11,305.03
+BATCH-2025-0848,Precision Drive Shaft,265,9.28,Lathe,Evening,2025-02-16,377.02
+BATCH-2025-0849,Turbine Blade Mount,361,11.42,Ship Gearbox,Morning,2025-01-27,611.28
+BATCH-2025-0850,Precision Drive Shaft,243,12.15,Milling Machine,Evening,2025-01-09,764.25
+BATCH-2025-0851,Industrial Gearbox Housing,75,2.8,Ship Gearbox,Morning,2025-06-03,142.3
+BATCH-2025-0852,Industrial Gearbox Housing,246,13.99,CNC,Morning,2025-06-18,604.52
+BATCH-2025-0853,Flange Connector,236,11.74,Lathe,Morning,2025-06-13,351.6
+BATCH-2025-0854,Precision Drive Shaft,331,11.69,Milling Machine,Afternoon,2025-03-24,892.07
+BATCH-2025-0855,Turbine Blade Mount,96,5.88,Lathe,Morning,2025-03-08,148.61
+BATCH-2025-0856,Turbine Blade Mount,103,2.97,Lathe,Afternoon,2025-02-21,153.53
+BATCH-2025-0857,Flange Connector,190,11.04,GEARBOX,Evening,2025-06-07,411.59
+BATCH-2025-0858,Industrial Gearbox Housing,57,3.45,GEARBOX,Night,2025-05-27,139.71
+BATCH-2025-0859,Turbine Blade Mount,262,14.55,GEARBOX,Morning,2025-06-20,537.45
+BATCH-2025-0860,Precision Drive Shaft,390,11.8,Milling Machine,Evening,2025-05-28,987.03
+BATCH-2025-0861,Industrial Gearbox Housing,201,8.69,Ship Gearbox,Afternoon,2025-01-18,385.26
+BATCH-2025-0862,Flange Connector,212,7.38,Lathe,Morning,2025-05-04,274.03
+BATCH-2025-0863,Industrial Gearbox Housing,140,6.67,Ship Gearbox,Night,2025-06-15,325.42
+BATCH-2025-0864,Industrial Gearbox Housing,76,3.13,Milling Machine,Night,2025-03-16,244.96
+BATCH-2025-0865,Hydraulic Valve Body,439,15.55,Lathe,Morning,2025-01-28,593.45
+BATCH-2025-0866,Turbine Blade Mount,342,14.39,GEARBOX,Morning,2025-02-18,637.9
+BATCH-2025-0867,Hydraulic Valve Body,82,2.36,CNC,Evening,2025-05-19,161.9
+BATCH-2025-0868,Turbine Blade Mount,238,15.53,GEARBOX,Afternoon,2025-03-28,556.49
+BATCH-2025-0869,Industrial Gearbox Housing,148,7.68,Milling Machine,Morning,2025-06-23,458.71
+BATCH-2025-0870,Flange Connector,235,14.95,Lathe,Evening,2025-02-06,417.22
+BATCH-2025-0871,Precision Drive Shaft,402,14.7,CNC,Afternoon,2025-01-04,820.39
+BATCH-2025-0872,Hydraulic Valve Body,229,13.49,CNC,Night,2025-06-06,623.72
+BATCH-2025-0873,Hydraulic Valve Body,230,13.45,Ship Gearbox,Morning,2025-02-26,485.77
+BATCH-2025-0874,Industrial Gearbox Housing,213,6.72,Lathe,Afternoon,2025-06-23,284.14
+BATCH-2025-0875,Precision Drive Shaft,415,15.66,Milling Machine,Morning,2025-02-24,1138.13
+BATCH-2025-0876,Industrial Gearbox Housing,117,6.7,Ship Gearbox,Evening,2025-02-06,273.85
+BATCH-2025-0877,Precision Drive Shaft,232,9.75,Lathe,Night,2025-01-26,364.44
+BATCH-2025-0878,Flange Connector,55,2.22,GEARBOX,Evening,2025-01-02,107.76
+BATCH-2025-0879,Industrial Gearbox Housing,320,11.89,Lathe,Morning,2025-05-02,440.87
+BATCH-2025-0880,Hydraulic Valve Body,279,10.96,Lathe,Evening,2025-04-16,418.43
+BATCH-2025-0881,Hydraulic Valve Body,304,10.35,Lathe,Morning,2025-03-19,405.68
+BATCH-2025-0882,Turbine Blade Mount,185,9.81,GEARBOX,Morning,2025-05-16,378.51
+BATCH-2025-0883,Industrial Gearbox Housing,489,14.08,Ship Gearbox,Night,2025-06-10,833.98
+BATCH-2025-0884,Hydraulic Valve Body,146,4.71,Milling Machine,Morning,2025-06-25,377.36
+BATCH-2025-0885,Precision Drive Shaft,142,4.24,GEARBOX,Evening,2025-02-23,247.27
+BATCH-2025-0886,Precision Drive Shaft,349,10.64,Milling Machine,Night,2025-04-27,931.99
+BATCH-2025-0887,Industrial Gearbox Housing,277,14.95,CNC,Morning,2025-01-30,668.34
+BATCH-2025-0888,Industrial Gearbox Housing,222,10.3,Lathe,Afternoon,2025-02-20,333.24
+BATCH-2025-0889,Turbine Blade Mount,111,6.57,Lathe,Morning,2025-04-07,190.09
+BATCH-2025-0890,Hydraulic Valve Body,164,10.19,CNC,Afternoon,2025-04-22,415.08
+BATCH-2025-0891,Hydraulic Valve Body,101,4.49,Lathe,Afternoon,2025-04-02,151.12
+BATCH-2025-0892,Turbine Blade Mount,109,3.78,Lathe,Night,2025-01-16,166.23
+BATCH-2025-0893,Turbine Blade Mount,336,13.92,Lathe,Morning,2025-03-17,488.97
+BATCH-2025-0894,Flange Connector,263,10.09,Lathe,Evening,2025-02-28,386.57
+BATCH-2025-0895,Industrial Gearbox Housing,272,14.07,GEARBOX,Afternoon,2025-01-04,548.56
+BATCH-2025-0896,Precision Drive Shaft,175,6.58,Lathe,Evening,2025-06-01,255.17
+BATCH-2025-0897,Hydraulic Valve Body,125,7.85,Ship Gearbox,Morning,2025-05-10,296.79
+BATCH-2025-0898,Industrial Gearbox Housing,270,8.71,GEARBOX,Afternoon,2025-01-26,454.37
+BATCH-2025-0899,Precision Drive Shaft,95,3.16,GEARBOX,Evening,2025-02-25,166.52
+BATCH-2025-0900,Hydraulic Valve Body,187,5.35,Milling Machine,Night,2025-01-05,485.61
+BATCH-2025-0901,Precision Drive Shaft,381,11.85,Milling Machine,Evening,2025-04-27,987.63
+BATCH-2025-0902,Precision Drive Shaft,149,4.59,Lathe,Afternoon,2025-06-10,197.04
+BATCH-2025-0903,Precision Drive Shaft,213,7.39,CNC,Morning,2025-03-11,416.6
+BATCH-2025-0904,Flange Connector,217,13.03,Ship Gearbox,Evening,2025-03-27,489.41
+BATCH-2025-0905,Industrial Gearbox Housing,248,14.43,Ship Gearbox,Night,2025-04-04,563.79
+BATCH-2025-0906,Turbine Blade Mount,300,9.85,Lathe,Morning,2025-02-05,406.21
+BATCH-2025-0907,Turbine Blade Mount,330,11.09,Lathe,Morning,2025-06-29,440.99
+BATCH-2025-0908,Hydraulic Valve Body,141,6.94,Lathe,Night,2025-06-24,223.67
+BATCH-2025-0909,Precision Drive Shaft,63,2.89,Milling Machine,Morning,2025-02-01,180.12
+BATCH-2025-0910,Precision Drive Shaft,186,8.33,Ship Gearbox,Night,2025-06-22,385.11
+BATCH-2025-0911,Industrial Gearbox Housing,73,3.22,Lathe,Afternoon,2025-01-20,122.92
+BATCH-2025-0912,Industrial Gearbox Housing,64,3.57,Lathe,Night,2025-02-08,139.78
+BATCH-2025-0913,Hydraulic Valve Body,210,6.1,Ship Gearbox,Morning,2025-03-30,341.69
+BATCH-2025-0914,Precision Drive Shaft,99,6.08,GEARBOX,Morning,2025-03-01,220.33
+BATCH-2025-0915,Flange Connector,284,10.1,Milling Machine,Afternoon,2025-06-20,767.03
+BATCH-2025-0916,Flange Connector,222,8.41,Ship Gearbox,Afternoon,2025-03-20,396.55
+BATCH-2025-0917,Hydraulic Valve Body,302,8.78,Milling Machine,Evening,2025-04-01,767.33
+BATCH-2025-0918,Turbine Blade Mount,194,10.66,GEARBOX,Evening,2025-05-18,414.46
+BATCH-2025-0919,Turbine Blade Mount,397,13.75,Lathe,Evening,2025-03-02,546.23
+BATCH-2025-0920,Industrial Gearbox Housing,239,10.04,CNC,Night,2025-04-05,541.07
+BATCH-2025-0921,Hydraulic Valve Body,391,11.32,Lathe,Morning,2025-02-11,501.05
+BATCH-2025-0922,Flange Connector,344,14.89,Milling Machine,Morning,2025-05-08,996.51
+BATCH-2025-0923,Hydraulic Valve Body,144,4.18,GEARBOX,Night,2025-06-15,242.83
+BATCH-2025-0924,Turbine Blade Mount,468,15.57,GEARBOX,Night,2025-05-27,827.7
+BATCH-2025-0925,Hydraulic Valve Body,116,6.74,Ship Gearbox,Afternoon,2025-06-23,255.14
+BATCH-2025-0926,Flange Connector,64,2.35,CNC,Night,2025-02-26,147.23
+BATCH-2025-0927,Precision Drive Shaft,178,6.57,Milling Machine,Morning,2025-03-13,485.96
+BATCH-2025-0928,Hydraulic Valve Body,228,9.54,CNC,Morning,2025-06-21,497.69
+BATCH-2025-0929,Industrial Gearbox Housing,101,4.72,Ship Gearbox,Afternoon,2025-06-20,188.88
+BATCH-2025-0930,Turbine Blade Mount,283,12.02,GEARBOX,Evening,2025-04-09,526.15
+BATCH-2025-0931,Turbine Blade Mount,145,6.83,CNC,Night,2025-02-25,342.8
+BATCH-2025-0932,Precision Drive Shaft,188,6.04,GEARBOX,Afternoon,2025-04-19,321.67
+BATCH-2025-0933,Precision Drive Shaft,84,4.01,Lathe,Morning,2025-03-27,142.28
+BATCH-2025-0934,Industrial Gearbox Housing,75,3.24,Ship Gearbox,Afternoon,2025-03-11,147.52
+BATCH-2025-0935,Precision Drive Shaft,359,11.94,Lathe,Afternoon,2025-04-08,486.38
+BATCH-2025-0936,Turbine Blade Mount,82,2.59,Ship Gearbox,Afternoon,2025-05-30,148.08
+BATCH-2025-0937,Turbine Blade Mount,158,5.14,GEARBOX,Afternoon,2025-06-13,273.43
+BATCH-2025-0938,Precision Drive Shaft,195,7.84,CNC,Night,2025-06-26,444.37
+BATCH-2025-0939,Hydraulic Valve Body,316,12.71,CNC,Morning,2025-04-03,674.45
+BATCH-2025-0940,Flange Connector,390,14.16,GEARBOX,Afternoon,2025-05-02,682.19
+BATCH-2025-0941,Industrial Gearbox Housing,252,13.83,Milling Machine,Morning,2025-06-27,814.59
+BATCH-2025-0942,Hydraulic Valve Body,61,2.74,Milling Machine,Evening,2025-06-12,191.44
+BATCH-2025-0943,Turbine Blade Mount,169,6.08,CNC,Night,2025-06-10,370.04
+BATCH-2025-0944,Hydraulic Valve Body,312,9.61,CNC,Evening,2025-06-25,607.97
+BATCH-2025-0945,Turbine Blade Mount,89,3.34,Milling Machine,Night,2025-05-13,264.96
+BATCH-2025-0946,Turbine Blade Mount,260,7.77,Milling Machine,Afternoon,2025-02-11,657.87
+BATCH-2025-0947,Industrial Gearbox Housing,286,9.05,Lathe,Evening,2025-06-26,388.06
+BATCH-2025-0948,Flange Connector,261,7.84,Ship Gearbox,Morning,2025-01-30,423.4
+BATCH-2025-0949,Hydraulic Valve Body,198,6.87,CNC,Afternoon,2025-06-02,404.18
+BATCH-2025-0950,Flange Connector,186,11.94,Milling Machine,Evening,2025-01-31,668.67
+BATCH-2025-0951,Hydraulic Valve Body,246,11.63,Lathe,Evening,2025-04-19,392.99
+BATCH-2025-0952,Industrial Gearbox Housing,387,12.85,CNC,Morning,2025-01-11,773.93
+BATCH-2025-0953,Hydraulic Valve Body,331,13.1,CNC,Morning,2025-03-06,694.15
+BATCH-2025-0954,Industrial Gearbox Housing,342,11.35,CNC,Night,2025-02-01,706.57
+BATCH-2025-0955,Flange Connector,101,4.59,Lathe,Evening,2025-03-13,174.13
+BATCH-2025-0956,Flange Connector,106,4.25,Milling Machine,Night,2025-06-06,328.95
+BATCH-2025-0957,Hydraulic Valve Body,90,3.39,Ship Gearbox,Morning,2025-02-19,170.59
+BATCH-2025-0958,Turbine Blade Mount,265,15.63,Lathe,Morning,2025-02-24,449.56
+BATCH-2025-0959,Flange Connector,220,11.77,GEARBOX,Night,2025-04-01,481.42
+BATCH-2025-0960,Precision Drive Shaft,213,9.2,GEARBOX,Evening,2025-03-22,406.35
+BATCH-2025-0961,Industrial Gearbox Housing,231,9.28,GEARBOX,Morning,2025-01-11,414.98
+BATCH-2025-0962,Industrial Gearbox Housing,75,3.62,Milling Machine,Afternoon,2025-06-03,238.41
+BATCH-2025-0963,Turbine Blade Mount,203,9.75,GEARBOX,Evening,2025-01-18,412.58
+BATCH-2025-0964,Precision Drive Shaft,62,2.18,Milling Machine,Evening,2025-06-22,170.53
+BATCH-2025-0965,Industrial Gearbox Housing,266,9.32,GEARBOX,Afternoon,2025-06-27,468.11
+BATCH-2025-0966,Flange Connector,100,2.91,CNC,Evening,2025-03-28,201.16
+BATCH-2025-0967,Hydraulic Valve Body,118,3.72,Ship Gearbox,Afternoon,2025-05-29,203.72
+BATCH-2025-0968,Flange Connector,198,6.99,Milling Machine,Afternoon,2025-04-14,527.26
+BATCH-2025-0969,Precision Drive Shaft,98,4.06,Ship Gearbox,Night,2025-03-01,208.6
+BATCH-2025-0970,Hydraulic Valve Body,390,12.33,CNC,Morning,2025-05-08,750.7
+BATCH-2025-0971,Industrial Gearbox Housing,225,10.46,Lathe,Afternoon,2025-01-20,343.43
+BATCH-2025-0972,Flange Connector,136,4.83,GEARBOX,Afternoon,2025-05-06,251.05
+BATCH-2025-0973,Flange Connector,344,13.33,Milling Machine,Night,2025-04-21,1013.39
+BATCH-2025-0974,Industrial Gearbox Housing,144,6.4,GEARBOX,Afternoon,2025-04-28,279.8
+BATCH-2025-0975,Industrial Gearbox Housing,315,9.79,CNC,Evening,2025-05-06,609.15
+BATCH-2025-0976,Precision Drive Shaft,297,12.02,Lathe,Night,2025-01-29,465.6
+BATCH-2025-0977,Flange Connector,278,8.66,GEARBOX,Afternoon,2025-05-07,454.67
+BATCH-2025-0978,Flange Connector,263,12.73,GEARBOX,Night,2025-01-16,548.9
+BATCH-2025-0979,Industrial Gearbox Housing,85,3.79,Ship Gearbox,Morning,2025-06-10,170.59
+BATCH-2025-0980,Turbine Blade Mount,278,7.99,GEARBOX,Morning,2025-04-16,434.85
+BATCH-2025-0981,Turbine Blade Mount,153,5.47,CNC,Evening,2025-01-17,303.33
+BATCH-2025-0982,Turbine Blade Mount,113,4.38,CNC,Night,2025-01-10,245.91
+BATCH-2025-0983,Precision Drive Shaft,166,5.73,GEARBOX,Afternoon,2025-04-07,269.25
+BATCH-2025-0984,Flange Connector,312,10.02,GEARBOX,Night,2025-01-26,538.37
+BATCH-2025-0985,Hydraulic Valve Body,274,9.04,Milling Machine,Afternoon,2025-04-04,712.38
+BATCH-2025-0986,Precision Drive Shaft,376,10.9,Lathe,Afternoon,2025-01-20,492.27
+BATCH-2025-0987,Flange Connector,120,5.71,Lathe,Night,2025-06-09,190.1
+BATCH-2025-0988,Industrial Gearbox Housing,211,10.29,Ship Gearbox,Morning,2025-05-26,415.88
+BATCH-2025-0989,Flange Connector,153,4.94,GEARBOX,Afternoon,2025-03-18,256.63
+BATCH-2025-0990,Precision Drive Shaft,111,4.8,Ship Gearbox,Night,2025-06-09,225.4
+BATCH-2025-0991,Flange Connector,395,14.33,GEARBOX,Evening,2025-05-08,696.34
+BATCH-2025-0992,Hydraulic Valve Body,388,15.12,GEARBOX,Night,2025-06-07,732.95
+BATCH-2025-0993,Precision Drive Shaft,207,9.31,Ship Gearbox,Morning,2025-06-25,403.02
+BATCH-2025-0994,Turbine Blade Mount,204,6.46,GEARBOX,Afternoon,2025-01-17,346.7
+BATCH-2025-0995,Hydraulic Valve Body,378,13.53,GEARBOX,Night,2025-04-14,691.13
+BATCH-2025-0996,Hydraulic Valve Body,93,4.69,CNC,Evening,2025-03-21,237.91
+BATCH-2025-0997,Precision Drive Shaft,262,7.91,GEARBOX,Afternoon,2025-01-08,433.55
+BATCH-2025-0998,Turbine Blade Mount,175,11.02,Milling Machine,Evening,2025-05-05,623.35
+BATCH-2025-0999,Industrial Gearbox Housing,134,6.39,CNC,Morning,2025-04-04,324.74
+BATCH-2025-1000,Industrial Gearbox Housing,140,5.3,GEARBOX,Evening,2025-05-09,265.7
+BATCH-2025-1001,Industrial Gearbox Housing,150,8.95,Ship Gearbox,Night,2025-03-22,343.25
+BATCH-2025-1002,Turbine Blade Mount,397,13.28,Ship Gearbox,Afternoon,2025-04-19,680.41
+BATCH-2025-1003,Hydraulic Valve Body,153,4.45,Lathe,Morning,2025-05-31,191.66
+BATCH-2025-1004,Industrial Gearbox Housing,203,11.79,GEARBOX,Night,2025-05-20,467.1
+BATCH-2025-1005,Precision Drive Shaft,505,15.49,GEARBOX,Evening,2025-04-05,848.16
+BATCH-2025-1006,Turbine Blade Mount,389,13.78,CNC,Morning,2025-01-14,772.03
+BATCH-2025-1007,Hydraulic Valve Body,216,6.33,Milling Machine,Afternoon,2025-02-01,535.45
+BATCH-2025-1008,Flange Connector,247,7.44,Lathe,Afternoon,2025-04-11,334.36
+BATCH-2025-1009,Turbine Blade Mount,455,15.11,Milling Machine,Morning,2025-02-11,1174.18
+BATCH-2025-1010,Precision Drive Shaft,267,13.05,Milling Machine,Afternoon,2025-01-21,835.16
+BATCH-2025-1011,Precision Drive Shaft,324,14.97,GEARBOX,Afternoon,2025-01-26,613.49
+BATCH-2025-1012,Hydraulic Valve Body,187,6.93,Milling Machine,Morning,2025-05-21,515.99
+BATCH-2025-1013,Turbine Blade Mount,353,12.67,GEARBOX,Morning,2025-06-14,613.55
+BATCH-2025-1014,Hydraulic Valve Body,101,4.8,CNC,Afternoon,2025-05-28,242.99
+BATCH-2025-1015,Industrial Gearbox Housing,161,5.49,CNC,Evening,2025-02-03,329.54
+BATCH-2025-1016,Flange Connector,270,8.32,GEARBOX,Night,2025-02-04,459.78
+BATCH-2025-1017,Turbine Blade Mount,250,13.19,Lathe,Night,2025-04-07,424.66
+BATCH-2025-1018,Flange Connector,511,15.27,Lathe,Morning,2025-06-15,655.72
+BATCH-2025-1019,Flange Connector,297,15.64,Lathe,Morning,2025-04-13,474.94
+BATCH-2025-1020,Flange Connector,140,4.09,GEARBOX,Night,2025-02-13,241.16
+BATCH-2025-1021,Flange Connector,286,12.06,CNC,Morning,2025-06-22,621.23
+BATCH-2025-1022,Precision Drive Shaft,226,11.99,CNC,Evening,2025-03-10,549.44
+BATCH-2025-1023,Turbine Blade Mount,123,3.82,GEARBOX,Afternoon,2025-03-14,186.67
+BATCH-2025-1024,Hydraulic Valve Body,138,7.72,GEARBOX,Evening,2025-03-16,286.1
+BATCH-2025-1025,Turbine Blade Mount,329,14.7,Lathe,Afternoon,2025-01-03,492.75
+BATCH-2025-1026,Precision Drive Shaft,359,15.64,Lathe,Night,2025-02-24,554.2
+BATCH-2025-1027,Precision Drive Shaft,79,3.02,GEARBOX,Night,2025-05-01,175.28
+BATCH-2025-1028,Turbine Blade Mount,52,2.08,Ship Gearbox,Morning,2025-04-08,105.59
+BATCH-2025-1029,Turbine Blade Mount,126,3.85,GEARBOX,Night,2025-02-13,230.56
+BATCH-2025-1030,Flange Connector,252,14.29,GEARBOX,Night,2025-03-23,568.7
+BATCH-2025-1031,Flange Connector,120,5.65,GEARBOX,Evening,2025-03-13,252.46
+BATCH-2025-1032,Turbine Blade Mount,297,14.64,GEARBOX,Night,2025-03-09,622.56
+BATCH-2025-1033,Flange Connector,309,14.5,Milling Machine,Afternoon,2025-02-08,944.59
+BATCH-2025-1034,Flange Connector,75,4.64,GEARBOX,Morning,2025-02-16,169.13
+BATCH-2025-1035,Industrial Gearbox Housing,104,4.29,GEARBOX,Night,2025-05-07,222.67
+BATCH-2025-1036,Industrial Gearbox Housing,415,15.84,GEARBOX,Night,2025-04-28,788.55
+BATCH-2025-1037,Precision Drive Shaft,63,3.73,CNC,Evening,2025-02-13,172.23
+BATCH-2025-1038,Flange Connector,350,10.17,Milling Machine,Evening,2025-05-15,883.78
+BATCH-2025-1039,Flange Connector,297,14.89,Lathe,Afternoon,2025-03-26,467.96
+BATCH-2025-1040,Industrial Gearbox Housing,202,7.52,Milling Machine,Morning,2025-01-28,548.9
+BATCH-2025-1041,Turbine Blade Mount,99,3.13,Lathe,Morning,2025-03-10,128.23
+BATCH-2025-1042,Flange Connector,438,15.58,CNC,Night,2025-04-26,916.36
+BATCH-2025-1043,Turbine Blade Mount,79,4.96,Ship Gearbox,Evening,2025-01-15,183.32
+BATCH-2025-1044,Industrial Gearbox Housing,66,3.3,Ship Gearbox,Afternoon,2025-03-03,133.77
+BATCH-2025-1045,Precision Drive Shaft,254,13.93,CNC,Morning,2025-06-17,617.47
+BATCH-2025-1046,Hydraulic Valve Body,210,8.87,CNC,Night,2025-03-21,475.06
+BATCH-2025-1047,Flange Connector,358,11.32,Lathe,Night,2025-04-10,488.67
+BATCH-2025-1048,Precision Drive Shaft,76,3.26,Milling Machine,Afternoon,2025-04-05,224.11
+BATCH-2025-1049,Flange Connector,183,10.83,Lathe,Afternoon,2025-06-23,294.79
+BATCH-2025-1050,Hydraulic Valve Body,262,9.38,Lathe,Afternoon,2025-01-22,361.76
+BATCH-2025-1051,Turbine Blade Mount,97,3.11,GEARBOX,Afternoon,2025-06-25,159.81
+BATCH-2025-1052,Turbine Blade Mount,98,6.14,Lathe,Afternoon,2025-01-20,198.85
+BATCH-2025-1053,Industrial Gearbox Housing,213,9.15,Ship Gearbox,Morning,2025-03-06,391.54
+BATCH-2025-1054,Turbine Blade Mount,196,12.76,Milling Machine,Morning,2025-06-19,688.49
+BATCH-2025-1055,Precision Drive Shaft,219,13.8,Lathe,Evening,2025-03-22,384.14
+BATCH-2025-1056,Flange Connector,218,10.73,GEARBOX,Afternoon,2025-02-17,443.95
+BATCH-2025-1057,Hydraulic Valve Body,337,12.46,Lathe,Morning,2025-05-17,468.51
+BATCH-2025-1058,Industrial Gearbox Housing,67,3.63,CNC,Afternoon,2025-05-03,165.12
+BATCH-2025-1059,Precision Drive Shaft,195,6.24,GEARBOX,Afternoon,2025-06-26,320.29
+BATCH-2025-1060,Precision Drive Shaft,57,3.75,Milling Machine,Morning,2025-01-29,195.85
+BATCH-2025-1061,Industrial Gearbox Housing,138,4.93,Lathe,Morning,2025-06-10,186.28
+BATCH-2025-1062,Flange Connector,151,6.21,Lathe,Morning,2025-05-02,213.37
+BATCH-2025-1063,Precision Drive Shaft,78,4.33,CNC,Morning,2025-05-01,187.81
+BATCH-2025-1064,Industrial Gearbox Housing,127,4.82,GEARBOX,Evening,2025-04-11,215.26
+BATCH-2025-1065,Industrial Gearbox Housing,110,3.44,Milling Machine,Morning,2025-05-07,275.28
+BATCH-2025-1066,Flange Connector,58,2.52,Ship Gearbox,Night,2025-05-12,130.06
+BATCH-2025-1067,Flange Connector,85,5.25,Ship Gearbox,Afternoon,2025-05-22,206.29
+BATCH-2025-1068,Industrial Gearbox Housing,251,14.45,Milling Machine,Afternoon,2025-06-09,834.19
+BATCH-2025-1069,Turbine Blade Mount,48,2.29,GEARBOX,Afternoon,2025-03-01,102.3
+BATCH-2025-1070,Flange Connector,478,14.9,Lathe,Night,2025-06-18,664.51
+BATCH-2025-1071,Precision Drive Shaft,276,12.12,Lathe,Night,2025-06-17,419.99
+BATCH-2025-1072,Turbine Blade Mount,221,10.71,GEARBOX,Evening,2025-01-23,456.29
+BATCH-2025-1073,Precision Drive Shaft,130,4.79,Lathe,Evening,2025-05-07,195.8
+BATCH-2025-1074,Turbine Blade Mount,343,9.8,Lathe,Evening,2025-04-02,450.24
+BATCH-2025-1075,Turbine Blade Mount,143,4.45,Milling Machine,Evening,2025-03-28,361.26
+BATCH-2025-1076,Precision Drive Shaft,72,3.69,CNC,Evening,2025-03-08,178.61
+BATCH-2025-1077,Turbine Blade Mount,334,12.78,Milling Machine,Morning,2025-05-12,926.41
+BATCH-2025-1078,Flange Connector,356,14.97,CNC,Morning,2025-04-28,752.03
+BATCH-2025-1079,Industrial Gearbox Housing,214,13.53,CNC,Morning,2025-02-22,568.36
+BATCH-2025-1080,Turbine Blade Mount,360,11.91,Lathe,Night,2025-05-08,515.31
+BATCH-2025-1081,Industrial Gearbox Housing,119,6.68,Lathe,Night,2025-04-17,221.4
+BATCH-2025-1082,Industrial Gearbox Housing,170,6.78,Lathe,Afternoon,2025-01-22,240.81
+BATCH-2025-1083,Turbine Blade Mount,200,7.05,Milling Machine,Afternoon,2025-04-18,546.43
+BATCH-2025-1084,Hydraulic Valve Body,181,7.79,Lathe,Afternoon,2025-04-28,282.45
+BATCH-2025-1085,Flange Connector,249,8.2,Milling Machine,Morning,2025-01-18,643.5
+BATCH-2025-1086,Industrial Gearbox Housing,232,7.62,Milling Machine,Night,2025-04-22,628.51
+BATCH-2025-1087,Industrial Gearbox Housing,313,11.24,GEARBOX,Morning,2025-06-11,543.85
+BATCH-2025-1088,Flange Connector,218,7.63,Milling Machine,Afternoon,2025-05-22,583.49
+BATCH-2025-1089,Turbine Blade Mount,43,2.11,Milling Machine,Night,2025-06-29,130.8
+BATCH-2025-1090,Precision Drive Shaft,397,14.43,GEARBOX,Evening,2025-06-08,702.35
+BATCH-2025-1091,Precision Drive Shaft,419,12.86,Milling Machine,Afternoon,2025-04-10,1076.52
+BATCH-2025-1092,Hydraulic Valve Body,126,4.99,Ship Gearbox,Night,2025-03-21,256.86
+BATCH-2025-1093,Flange Connector,76,2.33,Milling Machine,Evening,2025-03-19,196.46
+BATCH-2025-1094,Precision Drive Shaft,390,12.25,Ship Gearbox,Morning,2025-03-08,652.96
+BATCH-2025-1095,Flange Connector,75,2.67,Milling Machine,Morning,2025-01-02,208.28
+BATCH-2025-1096,Precision Drive Shaft,462,13.28,Milling Machine,Evening,2025-05-25,1169.57
+BATCH-2025-1097,Flange Connector,143,6.9,Ship Gearbox,Evening,2025-06-22,297.88
+BATCH-2025-1098,Hydraulic Valve Body,88,3.47,GEARBOX,Evening,2025-02-19,155.36
+BATCH-2025-1099,Turbine Blade Mount,95,4.05,GEARBOX,Morning,2025-04-19,176.68
+BATCH-2025-1100,Hydraulic Valve Body,185,8.25,GEARBOX,Evening,2025-05-15,363.66
+BATCH-2025-1101,Precision Drive Shaft,379,14.21,Ship Gearbox,Afternoon,2025-06-26,667.8
+BATCH-2025-1102,Precision Drive Shaft,71,4.02,GEARBOX,Evening,2025-04-28,139.55
+BATCH-2025-1103,Hydraulic Valve Body,283,11.72,Ship Gearbox,Morning,2025-05-24,531.84
+BATCH-2025-1104,Turbine Blade Mount,79,3.54,CNC,Afternoon,2025-03-16,181.36
+BATCH-2025-1105,Industrial Gearbox Housing,77,3.65,Ship Gearbox,Evening,2025-01-08,156.7
+BATCH-2025-1106,Hydraulic Valve Body,88,2.68,Lathe,Afternoon,2025-03-14,124.18
+BATCH-2025-1107,Hydraulic Valve Body,53,2.03,Lathe,Afternoon,2025-05-04,82.41
+BATCH-2025-1108,Flange Connector,447,14.6,Milling Machine,Afternoon,2025-05-02,1164.81
+BATCH-2025-1109,Flange Connector,220,9.07,Lathe,Evening,2025-03-25,319.95
+BATCH-2025-1110,Industrial Gearbox Housing,245,7.42,Ship Gearbox,Afternoon,2025-03-28,415.79
+BATCH-2025-1111,Flange Connector,343,12.3,CNC,Afternoon,2025-05-27,703.37
+BATCH-2025-1112,Turbine Blade Mount,184,11.01,Ship Gearbox,Morning,2025-06-08,396.22
+BATCH-2025-1113,Flange Connector,392,15.4,Ship Gearbox,Morning,2025-01-05,713.43
+BATCH-2025-1114,Industrial Gearbox Housing,317,15.47,Ship Gearbox,Evening,2025-02-22,638.25
+BATCH-2025-1115,Hydraulic Valve Body,82,3.19,Ship Gearbox,Afternoon,2025-05-06,150.53
+BATCH-2025-1116,Industrial Gearbox Housing,70,4.53,Milling Machine,Afternoon,2025-05-16,260.4
+BATCH-2025-1117,Turbine Blade Mount,113,3.27,GEARBOX,Night,2025-02-16,193.77
+BATCH-2025-1118,Turbine Blade Mount,146,6.3,CNC,Evening,2025-02-13,326.37
+BATCH-2025-1119,Industrial Gearbox Housing,133,4.54,Ship Gearbox,Night,2025-02-06,250.34
+BATCH-2025-1120,Precision Drive Shaft,229,7.26,Milling Machine,Night,2025-01-31,625.67
+BATCH-2025-1121,Industrial Gearbox Housing,335,12.53,Lathe,Evening,2025-04-09,464.02
+BATCH-2025-1122,Industrial Gearbox Housing,168,6.46,Milling Machine,Morning,2025-01-17,463.67
+BATCH-2025-1123,Precision Drive Shaft,362,10.87,CNC,Afternoon,2025-05-31,696.37
+BATCH-2025-1124,Industrial Gearbox Housing,145,6.26,Lathe,Evening,2025-01-22,224.29
+BATCH-2025-1125,Flange Connector,251,7.23,Lathe,Evening,2025-04-19,330.85
+BATCH-2025-1126,Flange Connector,49,2.01,GEARBOX,Morning,2025-06-08,83.9
+BATCH-2025-1127,Turbine Blade Mount,95,2.84,Lathe,Morning,2025-06-24,124.62
+BATCH-2025-1128,Precision Drive Shaft,257,10.19,Milling Machine,Evening,2025-01-12,737.57
+BATCH-2025-1129,Hydraulic Valve Body,142,6.21,Ship Gearbox,Morning,2025-05-23,276.12
+BATCH-2025-1130,Turbine Blade Mount,360,10.55,GEARBOX,Evening,2025-03-23,595.7
+BATCH-2025-1131,Turbine Blade Mount,164,5.82,Milling Machine,Afternoon,2025-06-03,441.5
+BATCH-2025-1132,Turbine Blade Mount,166,11.05,CNC,Evening,2025-05-02,464.1
+BATCH-2025-1133,Industrial Gearbox Housing,256,7.78,CNC,Evening,2025-05-18,492.0
+BATCH-2025-1134,Industrial Gearbox Housing,454,14.5,CNC,Morning,2025-04-24,855.82
+BATCH-2025-1135,Industrial Gearbox Housing,301,13.58,Milling Machine,Afternoon,2025-06-28,897.7
+BATCH-2025-1136,Industrial Gearbox Housing,136,7.19,CNC,Afternoon,2025-01-03,342.86
+BATCH-2025-1137,Hydraulic Valve Body,336,11.53,CNC,Night,2025-06-10,706.99
+BATCH-2025-1138,Turbine Blade Mount,540,15.72,Lathe,Evening,2025-01-10,714.41
+BATCH-2025-1139,Turbine Blade Mount,73,2.1,GEARBOX,Evening,2025-03-13,123.31
+BATCH-2025-1140,Flange Connector,83,4.39,Ship Gearbox,Afternoon,2025-05-25,175.06
+BATCH-2025-1141,Flange Connector,51,2.92,Ship Gearbox,Evening,2025-05-26,124.53
+BATCH-2025-1142,Hydraulic Valve Body,134,4.69,Ship Gearbox,Night,2025-06-27,257.88
+BATCH-2025-1143,Flange Connector,377,11.53,Ship Gearbox,Night,2025-06-22,673.8
+BATCH-2025-1144,Industrial Gearbox Housing,320,13.82,Milling Machine,Afternoon,2025-02-01,930.21
+BATCH-2025-1145,Flange Connector,213,7.06,GEARBOX,Afternoon,2025-03-13,368.05
+BATCH-2025-1146,Precision Drive Shaft,147,6.43,Ship Gearbox,Afternoon,2025-03-27,282.41
+BATCH-2025-1147,Industrial Gearbox Housing,309,15.86,Ship Gearbox,Morning,2025-03-05,622.92
+BATCH-2025-1148,Hydraulic Valve Body,175,6.35,Lathe,Night,2025-01-25,242.84
+BATCH-2025-1149,Industrial Gearbox Housing,357,13.31,GEARBOX,Afternoon,2025-03-06,628.23
+BATCH-2025-1150,Hydraulic Valve Body,116,5.34,CNC,Afternoon,2025-01-14,260.1
+BATCH-2025-1151,Turbine Blade Mount,464,15.21,Ship Gearbox,Evening,2025-06-10,797.93
+BATCH-2025-1152,Precision Drive Shaft,52,3.2,Ship Gearbox,Morning,2025-01-09,110.52
+BATCH-2025-1153,Precision Drive Shaft,210,12.96,Milling Machine,Morning,2025-06-06,715.25
+BATCH-2025-1154,Precision Drive Shaft,301,11.49,CNC,Morning,2025-03-17,616.44
+BATCH-2025-1155,Precision Drive Shaft,247,10.64,GEARBOX,Morning,2025-06-09,470.47
+BATCH-2025-1156,Industrial Gearbox Housing,200,8.5,GEARBOX,Afternoon,2025-06-08,366.34
+BATCH-2025-1157,Flange Connector,317,11.11,CNC,Night,2025-05-31,677.59
+BATCH-2025-1158,Hydraulic Valve Body,64,2.17,CNC,Morning,2025-06-01,131.11
+BATCH-2025-1159,Hydraulic Valve Body,220,10.92,Ship Gearbox,Evening,2025-04-24,444.03
+BATCH-2025-1160,Hydraulic Valve Body,213,13.16,Lathe,Evening,2025-03-21,386.71
+BATCH-2025-1161,Flange Connector,208,6.36,GEARBOX,Night,2025-03-21,365.58
+BATCH-2025-1162,Flange Connector,109,7.16,Milling Machine,Night,2025-05-31,406.89
+BATCH-2025-1163,Hydraulic Valve Body,289,9.1,CNC,Evening,2025-02-20,571.23
+BATCH-2025-1164,Hydraulic Valve Body,192,6.78,Lathe,Morning,2025-06-27,256.62
+BATCH-2025-1165,Precision Drive Shaft,367,13.93,Ship Gearbox,Night,2025-03-26,695.7
+BATCH-2025-1166,Hydraulic Valve Body,474,14.27,CNC,Afternoon,2025-05-07,903.36
+BATCH-2025-1167,Hydraulic Valve Body,285,11.71,CNC,Evening,2025-03-26,621.71
+BATCH-2025-1168,Precision Drive Shaft,159,4.58,Lathe,Afternoon,2025-04-03,216.18
+BATCH-2025-1169,Industrial Gearbox Housing,42,2.42,CNC,Night,2025-05-30,119.5
+BATCH-2025-1170,Turbine Blade Mount,99,4.79,CNC,Morning,2025-02-26,234.27
+BATCH-2025-1171,Turbine Blade Mount,276,13.87,Lathe,Night,2025-03-09,463.88
+BATCH-2025-1172,Industrial Gearbox Housing,224,7.3,CNC,Evening,2025-01-29,450.68
+BATCH-2025-1173,Turbine Blade Mount,188,8.39,Lathe,Night,2025-05-15,299.71
+BATCH-2025-1174,Flange Connector,120,3.66,GEARBOX,Morning,2025-02-03,202.24
+BATCH-2025-1175,Hydraulic Valve Body,250,11.72,Lathe,Afternoon,2025-01-12,376.07
+BATCH-2025-1176,Flange Connector,292,13.96,Ship Gearbox,Evening,2025-02-08,596.8
+BATCH-2025-1177,Turbine Blade Mount,223,10.81,Lathe,Morning,2025-05-30,352.57
+BATCH-2025-1178,Precision Drive Shaft,400,12.99,Lathe,Morning,2025-06-07,533.66
+BATCH-2025-1179,Industrial Gearbox Housing,349,12.52,Lathe,Afternoon,2025-04-29,473.26
+BATCH-2025-1180,Hydraulic Valve Body,231,9.36,Milling Machine,Night,2025-05-07,686.85
+BATCH-2025-1181,Precision Drive Shaft,337,10.93,Milling Machine,Afternoon,2025-02-21,873.5
+BATCH-2025-1182,Precision Drive Shaft,119,5.06,Lathe,Afternoon,2025-04-07,175.3
+BATCH-2025-1183,Flange Connector,93,5.56,Lathe,Night,2025-05-13,176.8
+BATCH-2025-1184,Turbine Blade Mount,233,8.51,Lathe,Morning,2025-04-20,315.5
+BATCH-2025-1185,Precision Drive Shaft,240,7.73,GEARBOX,Afternoon,2025-02-15,401.74
+BATCH-2025-1186,Precision Drive Shaft,245,11.03,Lathe,Night,2025-01-22,399.97
+BATCH-2025-1187,Turbine Blade Mount,436,13.0,Ship Gearbox,Morning,2025-01-10,721.11
+BATCH-2025-1188,Flange Connector,103,4.75,Lathe,Night,2025-03-19,175.54
+BATCH-2025-1189,Turbine Blade Mount,480,15.98,Lathe,Evening,2025-01-03,651.23
+BATCH-2025-1190,Turbine Blade Mount,299,12.96,Milling Machine,Night,2025-04-14,893.42
+BATCH-2025-1191,Flange Connector,388,11.16,CNC,Afternoon,2025-02-28,739.52
+BATCH-2025-1192,Hydraulic Valve Body,141,5.27,Lathe,Afternoon,2025-05-22,196.76
+BATCH-2025-1193,Precision Drive Shaft,278,13.09,GEARBOX,Night,2025-06-28,577.99
+BATCH-2025-1194,Precision Drive Shaft,217,8.3,Lathe,Afternoon,2025-04-06,322.34
+BATCH-2025-1195,Hydraulic Valve Body,187,6.28,Ship Gearbox,Evening,2025-04-01,321.38
+BATCH-2025-1196,Turbine Blade Mount,239,7.96,Lathe,Afternoon,2025-06-26,323.75
+BATCH-2025-1197,Flange Connector,269,10.22,Milling Machine,Night,2025-03-26,782.8
+BATCH-2025-1198,Flange Connector,300,15.72,Ship Gearbox,Afternoon,2025-04-11,625.97
+BATCH-2025-1199,Industrial Gearbox Housing,80,4.64,Ship Gearbox,Afternoon,2025-03-19,171.29
+BATCH-2025-1200,Industrial Gearbox Housing,212,11.45,Lathe,Morning,2025-06-26,341.79
